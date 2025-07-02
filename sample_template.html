@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Excel Template</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center mb-4">RTPS Voter Management System</h1>
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h5 class="mb-0">Sample Excel Template</h5>
+            </div>
+            <div class="card-body">
+                <p>Below is a sample template for the Excel file structure required for data upload. You can download this template and fill it with your data.</p>
+                
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Subdivision ID</th>
+                                <th>Subdivision Name</th>
+                                <th>Block ID</th>
+                                <th>Block Name</th>
+                                <th>Panchayat ID</th>
+                                <th>Panchayat Name</th>
+                                <th>Station No</th>
+                                <th>Station Name</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>SUB001</td>
+                                <td>Subdivision 1</td>
+                                <td>BLK001</td>
+                                <td>Block 1</td>
+                                <td>PAN001</td>
+                                <td>Panchayat 1</td>
+                                <td>1</td>
+                                <td>Polling Station 1</td>
+                            </tr>
+                            <tr>
+                                <td>SUB001</td>
+                                <td>Subdivision 1</td>
+                                <td>BLK001</td>
+                                <td>Block 1</td>
+                                <td>PAN001</td>
+                                <td>Panchayat 1</td>
+                                <td>2</td>
+                                <td>Polling Station 2</td>
+                            </tr>
+                            <tr>
+                                <td>SUB001</td>
+                                <td>Subdivision 1</td>
+                                <td>BLK001</td>
+                                <td>Block 1</td>
+                                <td>PAN002</td>
+                                <td>Panchayat 2</td>
+                                <td>3</td>
+                                <td>Polling Station 3</td>
+                            </tr>
+                            <tr>
+                                <td>SUB001</td>
+                                <td>Subdivision 1</td>
+                                <td>BLK002</td>
+                                <td>Block 2</td>
+                                <td>PAN003</td>
+                                <td>Panchayat 3</td>
+                                <td>4</td>
+                                <td>Polling Station 4</td>
+                            </tr>
+                            <tr>
+                                <td>SUB002</td>
+                                <td>Subdivision 2</td>
+                                <td>BLK003</td>
+                                <td>Block 3</td>
+                                <td>PAN004</td>
+                                <td>Panchayat 4</td>
+                                <td>5</td>
+                                <td>Polling Station 5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <div class="mt-4">
+                    <h5>Instructions:</h5>
+                    <ol>
+                        <li>Create an Excel file with the columns shown above.</li>
+                        <li>Fill in your data following the same structure.</li>
+                        <li>Make sure all required columns are present.</li>
+                        <li>Save the file as .xlsx or .xls format.</li>
+                        <li>Upload the file using the Data Upload section in the main application.</li>
+                    </ol>
+                </div>
+                
+                <div class="mt-4">
+                    <button id="generateTemplateBtn" class="btn btn-primary">Generate Excel Template</button>
+                    <a href="index.html" class="btn btn-secondary ms-2">Back to Main Application</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <script>
+        document.getElementById('generateTemplateBtn').addEventListener('click', function() {
+            // Sample data for the template
+            const sampleData = [
+                {
+                    "Subdivision ID": "SUB001",
+                    "Subdivision Name": "Subdivision 1",
+                    "Block ID": "BLK001",
+                    "Block Name": "Block 1",
+                    "Panchayat ID": "PAN001",
+                    "Panchayat Name": "Panchayat 1",
+                    "Station No": 1,
+                    "Station Name": "Polling Station 1"
+                },
+                {
+                    "Subdivision ID": "SUB001",
+                    "Subdivision Name": "Subdivision 1",
+                    "Block ID": "BLK001",
+                    "Block Name": "Block 1",
+                    "Panchayat ID": "PAN001",
+                    "Panchayat Name": "Panchayat 1",
+                    "Station No": 2,
+                    "Station Name": "Polling Station 2"
+                },
+                {
+                    "Subdivision ID": "SUB001",
+                    "Subdivision Name": "Subdivision 1",
+                    "Block ID": "BLK001",
+                    "Block Name": "Block 1",
+                    "Panchayat ID": "PAN002",
+                    "Panchayat Name": "Panchayat 2",
+                    "Station No": 3,
+                    "Station Name": "Polling Station 3"
+                },
+                {
+                    "Subdivision ID": "SUB001",
+                    "Subdivision Name": "Subdivision 1",
+                    "Block ID": "BLK002",
+                    "Block Name": "Block 2",
+                    "Panchayat ID": "PAN003",
+                    "Panchayat Name": "Panchayat 3",
+                    "Station No": 4,
+                    "Station Name": "Polling Station 4"
+                },
+                {
+                    "Subdivision ID": "SUB002",
+                    "Subdivision Name": "Subdivision 2",
+                    "Block ID": "BLK003",
+                    "Block Name": "Block 3",
+                    "Panchayat ID": "PAN004",
+                    "Panchayat Name": "Panchayat 4",
+                    "Station No": 5,
+                    "Station Name": "Polling Station 5"
+                }
+            ];
+            
+            // Create a new workbook
+            const workbook = XLSX.utils.book_new();
+            
+            // Convert the data to a worksheet
+            const worksheet = XLSX.utils.json_to_sheet(sampleData);
+            
+            // Add the worksheet to the workbook
+            XLSX.utils.book_append_sheet(workbook, worksheet, "Voter Data Template");
+            
+            // Generate the Excel file
+            XLSX.writeFile(workbook, "voter_data_template.xlsx");
+        });
+    </script>
+</body>
+</html>
