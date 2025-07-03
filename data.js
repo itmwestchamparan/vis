@@ -1,5 +1,5 @@
 // RTPS Voter Management System Data
-// This file was updated on 7/3/2025, 4:01:27 PM
+// This file was updated on 7/3/2025, 11:27:23 PM
 
 const voterData = {
   "subdivisions": [
@@ -14839,6 +14839,2368 @@ const voterData = {
                   "name": "राजकीय प्राथमिक विद्यालय श्यामपुर कोतराहा उतरी भाग का बायां भाग",
                   "assemblyNo": "006",
                   "assemblyName": "नौतन"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "block16",
+          "name": "चनपटिया",
+          "assemblyNo": "007",
+          "assemblyName": "चनपटिया",
+          "panchayats": [
+            {
+              "id": "panchayat217",
+              "name": "मुसहरी सेनुअरिया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "1",
+                  "name": "मध्य विद्यालय, बिजबनिया, उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "2",
+                  "name": "मध्य विद्यालय, बिजबनिया, दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "3",
+                  "name": "प्राथमिक विद्यालय कोकिला डीह उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "4",
+                  "name": "प्राथमिक विद्यालय कोकिला डीह दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "5",
+                  "name": "राजकीय उत्क्रमित मध्य  विद्यालय सेनुवरिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "6",
+                  "name": "प्राथमिक विद्यालय बिजवनिया नथुनी राम के टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "7",
+                  "name": "प्राथमिक विद्यालय भीखमपुर, उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "8",
+                  "name": "प्राथमिक विद्यालय भीखमपुर, दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat218",
+              "name": "चरगाहॉ",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "9",
+                  "name": "उत्क्रमित मध्य विद्यालय कौवाहां लक्ष्मीपुर उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "10",
+                  "name": "उत्क्रमित मध्य विद्यालय कौवाहां, लक्ष्मीपुर दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "11",
+                  "name": "प्राथमिक विद्यालय, गोयता टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "12",
+                  "name": "प्राथमिक विद्यालय नवगावा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "13",
+                  "name": "प्राथमिक विद्यालय चरगाहा उतरी  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "14",
+                  "name": "प्राथमिक विद्यालय चरगाहा दक्षिणी  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "15",
+                  "name": "उत्क्रमित मध्य विद्यालय, वाणी पट्टी",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat219",
+              "name": "भैसही पोखरिया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "16",
+                  "name": "मध्य विद्यालय, गोविनापुर उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "17",
+                  "name": "मध्य विद्यालय, गोविनापुर दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "18",
+                  "name": "प्राथमिक विद्यालय पोखरिया राय, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "19",
+                  "name": "प्राथमिक विद्यालय पोखरिया राय  पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "20",
+                  "name": "प्राथमिक विद्यालय भैसही उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "21",
+                  "name": "प्राथमिक विद्यालय भैसही दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "22",
+                  "name": "प्राथमिक विद्यालय भैसही पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "23",
+                  "name": "प्राथमिक विद्यालय भैसही  पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "24",
+                  "name": "प्राथमिक विद्यालय, पुरैना (बालक) उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "25",
+                  "name": "प्राथमिक विद्यालय, पुरैना (बालक) दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "26",
+                  "name": "प्राथमिक विद्यालय नुनिया टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "27",
+                  "name": "उत्क्रमित मध्य  विद्यालय खर्ग पोखरिया सरयुग महतो के टोला                  ",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "28",
+                  "name": "उत्क्रमित मध्य विद्यालय, जई महतो के टोला, उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "29",
+                  "name": "प्राथमिक विद्यालय कर्णपट्‌टी",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_141",
+                  "number": "30",
+                  "name": "उत्क्रमित मध्य विद्यालय, जई महतो के टोला, दक्षिणी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_151",
+                  "number": "31",
+                  "name": "उत्क्रमित मध्य विद्यालय, जई महतो के टोला, दक्षिणी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat220",
+              "name": " बनकट पुरैना",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "32",
+                  "name": "उत्क्रमित मध्य विद्यालय, पुरैना बाजार उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "33",
+                  "name": "उत्क्रमित मध्य विद्यालय, पुरैना बाजार दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "34",
+                  "name": "उत्क्रमित मध्य विद्यालय पुरैना कन्या  उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "35",
+                  "name": "उत्क्रमित मध्य विद्यालय पुरैना कन्या दक्षिणी  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "36",
+                  "name": "पंचायत भवन पुरैना चौबे",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "37",
+                  "name": "प्राथमिक विद्यालय, बनकट पुरैना उर्दू",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "38",
+                  "name": "प्राथमिक विद्यालय, बनकट पूर्वी भाग ",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "39",
+                  "name": "प्राथमिक विद्यालय, बनकट पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat221",
+              "name": "नगर पंचायत चनपटिया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "40",
+                  "name": "बालिका मध्य विद्यालय चनपटिया उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "41",
+                  "name": "बलिका मध्य विद्यालय चनपटिया मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "42",
+                  "name": "बालिका मध्य विद्यालय चनपटिया दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "43",
+                  "name": "राजकीय मध्य विद्यालय, चनपटिया बालक उतरी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "44",
+                  "name": "राजकीय मध्य विद्यालय, चनपटिया बालक उतरी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "45",
+                  "name": "राजकीय मध्य विद्यालय, चनपटिया बालक दक्षिणी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "46",
+                  "name": "राजकीय मध्य विद्यालय, चनपटिया बालक दक्षिणी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "47",
+                  "name": "गणेश प्रसाद उच्चतर माध्यमिक  विद्यालय, चनपटिया उतरी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "48",
+                  "name": "गणेश प्रसाद उच्चतर माध्यमिक  विद्यालय, चनपटिया उतरी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "49",
+                  "name": "गणेश प्रसाद उच्चतर माध्यमिक  विद्यालय, चनपटिया मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "50",
+                  "name": "गणेश प्रसाद उच्चतर माध्यमिक विद्यालय, चनपटिया दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "51",
+                  "name": "उच्चतर माध्यमिक  विद्यालय, चनपटिया पश्चिमी भवन उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "52",
+                  "name": "उच्चतर माध्यमिक  विद्यालय, चनपटिया पश्चिमी भवन दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "53",
+                  "name": "उच्चतर माध्यमिक  विद्यालय, चनपटिया पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_141",
+                  "number": "54",
+                  "name": "उच्चतर माध्यमिक  विद्यालय, चनपटिया नया भवन मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_151",
+                  "number": "55",
+                  "name": "राजकीय प्राथमिक विद्यालय टिकुलिया बालक पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_161",
+                  "number": "56",
+                  "name": "राजकीय प्राथमिक विद्यालय टिकुलिया बालक पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_171",
+                  "number": "57",
+                  "name": "प्राथमिक विद्यालय सोनरा टोला टिकुलिया पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_181",
+                  "number": "58",
+                  "name": "प्राथमिक विद्यालय सोनरा टोला टिकुलिया पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat222",
+              "name": "जैतिया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "59",
+                  "name": "उत्क्रमित मध्य विद्यालय, डूमरा उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "60",
+                  "name": "उत्क्रमित मध्य विद्यालय, डूमरा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "61",
+                  "name": "उत्क्रमित मध्य विद्यालय, तुलाराम  घाट पूर्वी भाग (नया भवन)",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "62",
+                  "name": "उत्क्रमित मध्य  विद्यालय, तुलाराम घाट पश्चिमी भाग (नया भवन)",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "63",
+                  "name": "प्राथमिक विद्यालय, पिपरा पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "64",
+                  "name": "प्राथमिक विद्यालय, पिपरा पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "65",
+                  "name": "मध्य विद्यालय, जैतिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "66",
+                  "name": "बुनियादी विद्यालय चौबे टोला उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "67",
+                  "name": "बुनियादी विद्यालय चौबे टोला दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "68",
+                  "name": "प्राथमिक विद्यालय मिश्रौलिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat223",
+              "name": "बकुलहर",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "69",
+                  "name": "बुनियादी विद्यालय, बकुलहर उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "70",
+                  "name": "बुनियादी विद्यालय, बकुलहर दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "71",
+                  "name": "प्राथमिक विद्यालय टेंगरहिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "72",
+                  "name": "प्राथमिक विद्यालय गोपालपुर उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "73",
+                  "name": "प्राथमिक विद्यालय गोपालपुर दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "74",
+                  "name": "प्राथमिक विद्यालय, छर्दवाली उर्दू",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat224",
+              "name": "उतरी घोघा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "75",
+                  "name": "उत्क्रमित मध्य विद्यालय, सहरसवा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "76",
+                  "name": "प्राथमिक विद्यालय, परसौनी उतरी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "77",
+                  "name": "प्राथमिक विद्यालय, परसौनी उतरी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "78",
+                  "name": "प्राथमिक विद्यालय, परसौनी दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "79",
+                  "name": "प्राथमिक विद्यालय, परसौनी पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat225",
+              "name": "दक्षिणी घोघा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "80",
+                  "name": "बुनियादी विद्यालय, घोघा पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "81",
+                  "name": "बुनियादी विद्यालय घोघा पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "82",
+                  "name": "बुनियादी विद्यालय घोघा मध्य  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "83",
+                  "name": "उत्क्रमित मध्य विद्यालय, मोहछी सुगर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "84",
+                  "name": "उत्क्रमित मध्य विद्यालय, मोहछी नैन",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "85",
+                  "name": "बुनियादी विद्यालय, पटबंदी का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "86",
+                  "name": "बुनियादी विद्यालय, पटबंदी का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat226",
+              "name": "गीधा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "87",
+                  "name": "बुनियादी विद्यालय गीधा पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "88",
+                  "name": "बुनियादी विद्यालय गीधा पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "89",
+                  "name": "बुनियादी विद्यालय, गीधा उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "90",
+                  "name": "बुनियादी विद्यालय, गीधा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "91",
+                  "name": "उत्क्रमित मध्य विद्यालय,  बाडी टोला, गीधा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "92",
+                  "name": "प्राथमिक विद्यालय बरोहिया उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "93",
+                  "name": "प्राथमिक विद्यालय बरोहिया दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat227",
+              "name": "लखैारा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "94",
+                  "name": "बुनियादी विद्यालय, लखौरा पूर्वी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "95",
+                  "name": "बुनियादी विद्यालय, लखौरा पूर्वी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "96",
+                  "name": "बुनियादी विद्यालय, लखौरा पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "97",
+                  "name": "बुनियादी विद्यालय, लखौरा मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "98",
+                  "name": "राजकीय प्राथमिक विद्यालय, मिश्रौली पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "99",
+                  "name": "राजकीय प्राथमिक विद्यालय, मिश्रौली पश्चिमी भाग (पटखौली)",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "100",
+                  "name": "प्राथमिक विद्यालय विशुनपुर मदाकर  का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "101",
+                  "name": "प्राथमिक विद्यालय विशुनपुर मदाकर  का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat228",
+              "name": "महना कुली",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "102",
+                  "name": "उत्क्रमित मध्य विद्यालय, बरवा चाप उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "103",
+                  "name": "उत्क्रमित मध्य विद्यालय, बरवा चाप दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "104",
+                  "name": "बुनियादी विद्यालय शंभुआपुर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "105",
+                  "name": "प्राथमिक विद्यालय कैथवलिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "106",
+                  "name": "बुनियादी विद्यालय, खरदेउर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "107",
+                  "name": "प्राथमिक विद्यालय, महना उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "108",
+                  "name": "प्राथमिक विद्यालय, महना दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "109",
+                  "name": "उत्क्रमित मध्य विद्यालय झखरा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat229",
+              "name": "चुहड़ी",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "110",
+                  "name": "बुनियादी विद्यालय लगुनाहा उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "111",
+                  "name": "बुनियादी विद्यालय लगुनाहा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "112",
+                  "name": "उत्क्रमित मध्य विद्यालय लच्छुछापर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "113",
+                  "name": "संत आग्नेस कन्या मध्य विद्यालय, चुहड़ी, उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "114",
+                  "name": "संत आग्नेस कन्या मध्य विद्यालय, चुहड़ी, मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "115",
+                  "name": "संत आग्नेस कन्या मध्य विद्यालय, चुहड़ी, दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "116",
+                  "name": "संत आग्नेस कन्या मध्य विद्यालय, चुहड़ी, दक्षिणी भाग का बायां भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "117",
+                  "name": "लोयला मध्य विद्यालय चुहड़ी",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "118",
+                  "name": "प्राथमिक विद्यालय मिस्कार टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat230",
+              "name": "सिरिसिया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "119",
+                  "name": "उत्क्रमित मध्य विद्यालय, सबेयाकला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "120",
+                  "name": "बुनियादी विद्यालय, अड्डा सिरिसिया, उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "121",
+                  "name": "बुनियादी विद्यालय, अड्डा सिरिसिया, दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "122",
+                  "name": "राजकीय प्राथमिक विद्यालय एकरहिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "123",
+                  "name": "प्राथमिक विद्यालय, चौधुर टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "124",
+                  "name": "उत्क्रमित मध्य विद्यालय मोतीपुर,  उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "125",
+                  "name": "उत्क्रमित मध्य विद्यालय मोतीपुर, दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "126",
+                  "name": "प्राथमिक विद्यालय विश्वास",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat231",
+              "name": "पश्चिमी तुरहापट्टी",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "127",
+                  "name": "प्राथमिक विद्यालय, तुरहापट्टी लाला टोला मुस्मात उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "128",
+                  "name": "प्राथमिक विद्यालय, तुरहापट्टी लाला टोला मुस्मात दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "129",
+                  "name": "मध्य विद्यालय मौलनिया उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "130",
+                  "name": "मध्य विद्यालय मौलनिया दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat232",
+              "name": "पूर्वी तुरहापट्टी",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "131",
+                  "name": "प्राथमिक विद्यालय तुरहापट्टी  उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "132",
+                  "name": "प्राथमिक विद्यालय तुरहापट्टी  दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "133",
+                  "name": "राजकीय  मध्य विद्यालय जोगिया टोला, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "134",
+                  "name": "राजकीय मध्य विद्यालय जोगिया टोला, पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "135",
+                  "name": "मध्य विद्यालय बडहरवा उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "136",
+                  "name": "मध्य विद्यालय बड़हरवा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat233",
+              "name": "गुरवलीया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "137",
+                  "name": "उत्क्रमित मध्य विद्यालय, गुरूवलिया संस्कृत उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "138",
+                  "name": "उत्क्रमित मध्य विद्यालय, गुरूवलिया संस्कृत दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "139",
+                  "name": "प्राथमिक विद्यालय गुरूवलिया अ० जा० (पासवान टोला) उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "140",
+                  "name": "प्राथमिक विद्यालय गुरूवलिया अ० जा० (पासवान टोला) दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "141",
+                  "name": "राजकीय  प्राथमिक विद्यालय, भरवा टोला रामसूरत दूबे के टोला, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "142",
+                  "name": "राजकीय प्राथमिक विद्यालय, भरवा टोला रामसूरत दूबे के टोला, पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "143",
+                  "name": "उत्क्रमित मध्य विद्यालय भरपटिया उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "144",
+                  "name": "उत्क्रमित मध्य विद्यालय भरपटिया दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat234",
+              "name": "तुनिया विशुनपुर",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "145",
+                  "name": "उत्क्रमित मध्य विद्यालय, पतरखा उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "146",
+                  "name": "उत्क्रमित मध्य विद्यालय, पतरखा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "147",
+                  "name": "उत्क्रमित मध्य विद्यालय, हीरापाकड़ उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "148",
+                  "name": "उत्क्रमित मध्य विद्यालय, हीरापाकड़ दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "149",
+                  "name": "प्राथमिक विद्यालय परसा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "150",
+                  "name": "प्राथमिक विद्यालय तुनिया विशुनपुर पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "151",
+                  "name": "प्राथमिक विद्यालय तुनिया विशुनपुर पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "152",
+                  "name": "प्राथमिक विद्यालय लपटही पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "153",
+                  "name": "प्राथमिक विद्यालय लपटही पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat235",
+              "name": "बेतिया डीह",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "154",
+                  "name": "बुनियादी विद्यालय, शेख धुरवा का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "155",
+                  "name": "बुनियादी विद्यालय, शेख धुरवा  का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "156",
+                  "name": "बुनियादी विद्यालय रायधुरवा, उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "157",
+                  "name": "बुनियादी विद्यालय रायधुरवा, दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "158",
+                  "name": "उत्क्रमित मध्य विद्यालय, खैरटिया पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "159",
+                  "name": "उत्क्रमित मध्य विद्यालय, खैरटिया मध्य  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "160",
+                  "name": "उत्क्रमित मध्य विद्यालय, खैरटिया पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "161",
+                  "name": "बुनियादी विद्यालय श्रीनगर छावनी",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "162",
+                  "name": "बुनियादि विद्यालय जोकहा उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "163",
+                  "name": "बुनियादि विद्यालय जोकहा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat236",
+              "name": "कुडवा मठिया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "164",
+                  "name": "उत्क्रमित मध्य विद्यालय, उपाध्याय टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "165",
+                  "name": "केन्द्रीय विद्यालय, कुमारबाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "166",
+                  "name": "राजकीय +2 उच्च विद्यालय कुमारबाग उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "167",
+                  "name": "राजकीय +2 उच्च विद्यालय कुमारबाग दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "168",
+                  "name": "बुनियादी विद्यालय मठिया बकुचिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "169",
+                  "name": "बुनियादी विद्यालय, विशुनपुर वृत उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "170",
+                  "name": "बुनियादी विद्यालय, विशुनपुर वृत दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "171",
+                  "name": "बुनियादी विद्यालय, विशुनपुर वृत पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "172",
+                  "name": "बुनियादी विद्यालय, विशुनपुर वृत मध्य  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat237",
+              "name": "रानीपुर रमपुरवा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "173",
+                  "name": "प्राथमिक विद्यालय रमपुरवा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "174",
+                  "name": "बुनियादी विद्यालय रानीपुर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "175",
+                  "name": "बुनियादी विद्यालय वृन्दावन (बालक)",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "176",
+                  "name": "प्राथमिक विद्यालय टीकाछापर, पूर्वी भवन",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "177",
+                  "name": "प्राथमिक विद्यालय टीकाछापर, पश्चिमी भवन",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "178",
+                  "name": "मध्य विद्यालय, जबदौल दुसाधपट्टी पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "179",
+                  "name": "मध्य विद्यालय, जबदौल दुसाधपट्टी पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat238",
+              "name": "अवरैया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "180",
+                  "name": "बुनियादी  विद्यालय बेलवा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "181",
+                  "name": "पंचायत भवन अवरैया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "182",
+                  "name": "बुनियादी विद्यालय, अवरैया पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "183",
+                  "name": "बुनियादी विद्यालय, अवरैया उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "184",
+                  "name": "बुनियादी विद्यालय, अवरैया पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "185",
+                  "name": "बुनियादी विद्यालय, अवरैया दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat239",
+              "name": "लालगढ",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "186",
+                  "name": "बुनियादी विद्यालय लालगढ़ उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "187",
+                  "name": "बुनियादी विद्यालय लालगढ़ दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "188",
+                  "name": "उत्क्रमित मध्य विद्यालय, खसुआड़",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "189",
+                  "name": "प्राथमिक विद्यालय करनमेया नया भवन बाया  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "190",
+                  "name": "प्राथमिक विद्यालय करनमेया नया भवन दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "191",
+                  "name": "बुनियादी विद्यालय पाण्डे टोला उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "192",
+                  "name": "बुनियादी विद्यालय पाण्डे टोला दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat240",
+              "name": "लोहियरिया",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "193",
+                  "name": "बुनियादी विद्यालय लोहियरिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "194",
+                  "name": "प्राथमिक विद्यालय बनकटवा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "195",
+                  "name": "बुनियादी विद्यालय यादोछापर उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "196",
+                  "name": "बुनियादी विद्यालय यादोछापर दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "197",
+                  "name": "प्राथमिक विद्यालय नवका टोला पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "198",
+                  "name": "प्राथमिक विद्यालय नवका टोला पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "199",
+                  "name": "श्यामनारायण मध्य विद्यालय, बनवा टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "200",
+                  "name": "बुनियादी विद्यालय महुअवा , उत्तरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "201",
+                  "name": "बुनियादी विद्यालय महुअवा , दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "block17",
+          "name": "मझौलिया (अंशतः)",
+          "assemblyNo": "007",
+          "assemblyName": "चनपटिया",
+          "panchayats": [
+            {
+              "id": "panchayat241",
+              "name": "चनायन बांध",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "202",
+                  "name": "उत्क्रमित मध्य विद्यालय, बलिरामपुर दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "203",
+                  "name": "उत्क्रमित मध्य विद्यालय, बलिरामपुर बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "204",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, अनरहवा पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "205",
+                  "name": "राजकीय प्राथमिक विद्यालय कसेरा टोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "206",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, अनरहवा, मध्य  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "207",
+                  "name": "राजकीय प्राथमिक विद्यालय चनायन बॉध पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "208",
+                  "name": "राजकीय प्राथमिक विद्यालय चनायन बॉध पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "block18",
+          "name": "मझौलिया",
+          "assemblyNo": "007",
+          "assemblyName": "चनपटिया",
+          "panchayats": [
+            {
+              "id": "panchayat242",
+              "name": "महनागनी",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "209",
+                  "name": "राजकीय प्राथमिक विद्यालय मिर्जापुर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "210",
+                  "name": "बेसिक स्कूल महना मिर्जापुर, पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "211",
+                  "name": "बेसिक स्कूल महना मिर्जापुर, पूर्वी भाग ",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "212",
+                  "name": "मध्य विद्यालय, निन्हवलिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "213",
+                  "name": "बेसिक स्कूल महना मिर्जापुर मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "214",
+                  "name": "बेसिक स्कूल महना मिर्जापुर  बायां भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "215",
+                  "name": "मध्य विद्यालय पारस पकड़ी, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "216",
+                  "name": "मध्य विद्यालय पारस पकड़ी, पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat243",
+              "name": "रतनमाला",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "217",
+                  "name": "राजकीय प्राथमिक विद्यालय रतनमाला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "218",
+                  "name": "राजकीय प्राथमिक विद्यालय रामकोला",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "219",
+                  "name": "बेसिक स्कूल,  भगड़वा, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "220",
+                  "name": "बेसिक स्कूल,  भगड़वा पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "221",
+                  "name": "राजकीय प्राथमिक विद्यालय कोहाडगर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "222",
+                  "name": "उत्क्रमित मध्य विद्यालय, पाटबन्दी, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "223",
+                  "name": "उत्क्रमित मध्य विद्यालय, पाटबन्दी, पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "224",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, छवरैया बाया भाग ",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "225",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, छवरैया दाया भाग ",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "226",
+                  "name": "सीनियर बेसिक स्कूल भगड़वा पुराना भवन",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat244",
+              "name": "सरिसवा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "227",
+                  "name": "राजकीय प्राथमिक विद्यालय भरवलिया दाया भाग)",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "228",
+                  "name": "राजकीय प्राथमिक विद्यालय भरवलिया बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "229",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, बनकट मुशहरी",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "230",
+                  "name": "उच्च विद्यालय सरिसवा दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "231",
+                  "name": "उच्च विद्यालय, सरिसवा बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "232",
+                  "name": "उच्च विद्यालय, सरिसवा मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "233",
+                  "name": "मध्य विद्यालय सरिसवा दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "234",
+                  "name": "मध्य विद्यालय सरिसवा बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat245",
+              "name": "बरवा सेमरा घाट",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "235",
+                  "name": "राजकीय प्राथमिक विद्यालय धनकुटवा दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "236",
+                  "name": "राजकीय प्राथमिक विद्यालय धनकुटवा बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "237",
+                  "name": "राजकीय प्राथमिक विद्यालय ओझा मठिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "238",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, सेमराघाट उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "239",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, सेमराघाट दक्षिणी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "240",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, सेमराघाट दक्षिणी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "241",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, बरबा दायां भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "242",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, बरबा बायां भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat246",
+              "name": " हरपुर गढ़वा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "243",
+                  "name": "कन्या राजकीय प्राथमिक विद्यालय बथना उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "244",
+                  "name": "कन्या राजकीय प्राथमिक विद्यालय बथना मध्य  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "245",
+                  "name": "कन्या राजकीय प्राथमिक विद्यालय बथना दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "246",
+                  "name": "कन्या राजकीय  प्राथमिक विद्यालय बथना पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "247",
+                  "name": "मध्य विद्यालय बिरवॉ का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "248",
+                  "name": "मध्य विद्यालय बिरवॉ का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "249",
+                  "name": "उत्क्रमित मध्य विद्यालय, हरपुर",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "250",
+                  "name": "राजकीय प्राथमिक विद्यालय कन्या गढ़वा उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "251",
+                  "name": "राजकीय प्राथमिक विद्यालय कन्या गढ़वा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "252",
+                  "name": "राजकीय प्राथमिक विद्यालय कन्या गढ़वा पूर्वी  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "253",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, गढवा भोगाड़ी पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "254",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, गढवा भोगाड़ी दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "255",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, गढवा भोगाड़ी पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "256",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, गढवा भोगाड़ी मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat247",
+              "name": "रमपुरवा महनवा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "257",
+                  "name": "मध्य विद्यालय, डूमरी महनवा उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "258",
+                  "name": "मध्य विद्यालय, डूमरी महनवा मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "259",
+                  "name": "मध्य विद्यालय, डूमरी महनवा दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "260",
+                  "name": "मध्य विद्यालय, डूमरी महनवा पूर्वी   भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "261",
+                  "name": "राजकीय प्राथमिक विद्यालय बढैया टोला उर्दू",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "262",
+                  "name": "राजकीय प्राथमिक विद्यालय बढैया टोला दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "263",
+                  "name": "राजकीय प्राथमिक विद्यालय बढैया टोला बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "264",
+                  "name": "उत्क्रमित मध्य विद्यालय, रमपुरवा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat248",
+              "name": " डुमरी",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "265",
+                  "name": "उत्क्रमित मध्य विद्यालय, रघुनाथपुर  उर्दू",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "266",
+                  "name": "उत्क्रमित मध्य विद्यालय, डुमरी उतरी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "267",
+                  "name": "उत्क्रमित मध्य विद्यालय, डुमरी उतरी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "268",
+                  "name": "उत्क्रमित मध्य विद्यालय, डुमरी दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat249",
+              "name": "नौतन खुर्द",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "269",
+                  "name": "मध्य विद्यालय नौतन खुर्द दक्षिणी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "270",
+                  "name": "मध्य विद्यालय नौतन खुर्द मध्य भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "271",
+                  "name": "मध्य विद्यालय नौतन खुर्द उतरी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "272",
+                  "name": "उत्क्रमित मध्य विद्यालय, सेमरा वृत उर्दू नया खण्ड, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "273",
+                  "name": "उत्क्रमित मध्य विद्यालय, सेमरा वृत उर्दू नया खण्ड, पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "274",
+                  "name": "मध्य विद्यालय मठिया वृत्त दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "275",
+                  "name": "मध्य विद्यालय मठिया वृत्त बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "276",
+                  "name": "प्राथमिक विद्यालय बेखबरा",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat250",
+              "name": "धोकरांहा",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "277",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, दुधा मठिया पूर्वी भाग का दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "278",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, दुधा मठिया पूर्वी भाग का बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "279",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, दुधा मठिया पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "280",
+                  "name": "राजकीय प्राथमिक विद्यालय शिकारपुर दाया भाग ",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "281",
+                  "name": "राजकीय प्राथमिक विद्यालय शिकारपुर बाया भाग ",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "282",
+                  "name": "मध्य विद्यालय, धोकरांहा पूर्वी  भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "283",
+                  "name": "मध्य विद्यालय धोकरांहा पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "284",
+                  "name": "राजकीय प्राथमिक विद्यालय, दुधा  दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "285",
+                  "name": "राजकीय प्राथमिक विद्यालय, दुधा बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat251",
+              "name": "बैठनिया भानाचक",
+              "assemblyNo": "007",
+              "assemblyName": "चनपटिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "286",
+                  "name": "राजकीय प्राथमिक विद्यालय, श्यामपुर दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "287",
+                  "name": "राजकीय प्राथमिक विद्यालय,   श्यामपुर बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "288",
+                  "name": "राजकीय प्राथमिक विद्यालय गुरचुरवा दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "289",
+                  "name": "राजकीय प्राथमिक विद्यालय गुरचुरवा बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "290",
+                  "name": "उत्क्रमित मध्य विद्यालय, बैठनिया",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "291",
+                  "name": "उत्क्रमित मध्य विद्यालय, भानाचक, पूर्वी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "292",
+                  "name": "उत्क्रमित मध्य विद्यालय, भानाचक, पश्चिमी भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "293",
+                  "name": "प्रखण्ड संसाधन केन्द्र मझौलिया दाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "294",
+                  "name": "प्रखण्ड संसाधन केन्द्र मझौलिया बाया भाग",
+                  "assemblyNo": "007",
+                  "assemblyName": "चनपटिया"
                 }
               ]
             }
