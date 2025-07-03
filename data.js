@@ -1,5 +1,5 @@
 // RTPS Voter Management System Data
-// This file was updated on 7/3/2025, 1:12:56 PM
+// This file was updated on 7/3/2025, 4:01:27 PM
 
 const voterData = {
   "subdivisions": [
@@ -4418,6 +4418,2467 @@ const voterData = {
               ]
             }
           ]
+        },
+        {
+          "id": "block10",
+          "name": "बगहा-2",
+          "assemblyNo": "004",
+          "assemblyName": "बगहा ",
+          "panchayats": [
+            {
+              "id": "panchayat121",
+              "name": "बैरागी सोनवर्षा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "1",
+                  "name": "सामुदायिक भवन रतनपुरवा हरिजन टोली",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "2",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय भितहा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "3",
+                  "name": "राजकीय प्राथमिक विद्यालय कदमहवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "4",
+                  "name": "राजकीय प्राथमिक विद्यालय कदमहवा छोपी टोला",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "5",
+                  "name": "आदिवासी उच्च विद्यालय बैरागी सोनवर्षा बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "6",
+                  "name": "आदिवासी उच्च विद्यालय बैरागी सोनवर्षा दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "7",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय चिउटाहॉ उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "8",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय,  चिउटाहाँ दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "9",
+                  "name": "राजकीय मध्य विद्यालय बैरागी सोनबरसा बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_91",
+                  "number": "10",
+                  "name": "राजकीय मध्य विद्यालय बैरागी सोनबरसा दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat122",
+              "name": "पैकवलिया मर्यादपुर",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "11",
+                  "name": "आवासीय उच्च विद्यालय मेड्रौल",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "12",
+                  "name": "राजकीय प्राथमिक विद्यालय केरई बेरई",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "13",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मर्यादपुर ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "14",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, रमवलिया-01",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "15",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, पैकवलिया स्थित बजड़ा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "16",
+                  "name": "राजकीय प्राथमिक विद्यालय पैकवालिया ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "17",
+                  "name": "संकुल संसाधन केन्द्र राजकीय प्राथमिक विद्यालय खुरखुरवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat123",
+              "name": "बैराटी बरिअरवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "18",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बैराटी उर्दू दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "19",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बैराटी उर्दू बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "20",
+                  "name": "राजकीय प्राथमिक विद्यालय सेरहवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "21",
+                  "name": "राजकीय प्राथमिक विद्यालय सपही बरिअरवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "22",
+                  "name": "राजकीय प्राथमिक विद्यालय बलकहवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "23",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बेलवा चखनी ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "24",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सपही",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "25",
+                  "name": "राजकीय प्राथमिक विद्यालय बरवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "26",
+                  "name": "राजकीय प्राथमिक विद्यालय रमवलिया ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat124",
+              "name": "खरहट त्रिभौनी",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "27",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खरहट पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "28",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खरहट मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "29",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खरहट पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "30",
+                  "name": "राजकीय मध्य विद्यालय महुअवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "31",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय त्रिभौनी बाया  भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "32",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय त्रिभौनी दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "33",
+                  "name": "राजकीय प्राथमिक विद्यालय तोनवा बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "34",
+                  "name": "राजकीय प्राथमिक विद्यालय तोनवा दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat125",
+              "name": "चमवलिया",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "35",
+                  "name": "राजकीय मध्य विद्यालय मच्छरगावॉ  स्थित मटिअरिया बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "36",
+                  "name": "राजकीय मध्य विद्यालय मच्छरगावॉ  स्थित मटिअरिया दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "37",
+                  "name": "राजकीय प्राथमिक विद्यालय जीतपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "38",
+                  "name": "राजकीय प्राथमिक विद्यालय खिरिया उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "39",
+                  "name": "राजकीय प्राथमिक विद्यालय खिरिया, दक्षिणी भाग ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "40",
+                  "name": "राजकीय प्राथमिक विद्यालय चमवलिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "41",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सिरजीब्रम्हपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "42",
+                  "name": "राजकीय प्राथमिक विद्यालय बरवासानी",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat126",
+              "name": "नगरपरिषद - बगहा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "43",
+                  "name": "सामुदायिक विकास भवन मलकौली",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "44",
+                  "name": "राजकीय मध्य विद्यालय मलकौली मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "45",
+                  "name": "सन फ्लॉवर पब्लिक स्कुल मलकौली दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "46",
+                  "name": "राजकीय मध्य विद्यालय मलकौली उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "47",
+                  "name": "सन फ्लॉवर पब्लिक स्कुल मलकौली बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "48",
+                  "name": "राजकीय मध्य विद्यालय मलकौली दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "49",
+                  "name": "राजकीय कन्या प्राथमिक विद्यालय पटखौली बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "50",
+                  "name": "राजकीय कन्या प्राथमिक विद्यालय पटखौली दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "51",
+                  "name": "प्रखण्ड कार्यालय सिधांव उत्तरी भाग ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_91",
+                  "number": "52",
+                  "name": "प्रखण्ड कार्यालय सिधांव मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_101",
+                  "number": "53",
+                  "name": "प्रखण्ड कार्यालय सिधांव दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_111",
+                  "number": "54",
+                  "name": "ई किसान भवन बगहा-2",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_121",
+                  "number": "55",
+                  "name": "प्रखण्ड परिसर स्थित मिटींग हॉल",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_131",
+                  "number": "56",
+                  "name": "राजकीय उच्च विद्यालय नरईपुर ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_141",
+                  "number": "57",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय नरईपुर ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_151",
+                  "number": "58",
+                  "name": "सामुदायिक भवन नरईपुर देवी स्थान के समीप ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_161",
+                  "number": "59",
+                  "name": "राजकीय बुनियादी विद्यालय पिपरासी शास्त्रीनगर, उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_171",
+                  "number": "60",
+                  "name": "उत्क्रमित मध्य विद्यालय नरईपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_181",
+                  "number": "61",
+                  "name": "राजकीय बुनियादी विद्यालय पिपरासी शास्त्रीनगर, नया भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_191",
+                  "number": "62",
+                  "name": "राजकीय बुनियादी विद्यालय पिपरासी शास्त्रीनगर, दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_201",
+                  "number": "63",
+                  "name": "राजकीय बुनियादी विद्यालय पिपरासी शास्त्रीनगर, मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_211",
+                  "number": "64",
+                  "name": "राजकीय मध्य विद्यालय पठखौली उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_221",
+                  "number": "65",
+                  "name": "राजकीय मध्य विद्यालय पटखौली  मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_231",
+                  "number": "66",
+                  "name": "राजकीय मध्य विद्यालय पटखौली दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_241",
+                  "number": "67",
+                  "name": "राजकीय प्राथमिक विद्यालय, नरैनापुर घाट उत्तरी भाग ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_251",
+                  "number": "68",
+                  "name": "राजकीय प्राथमिक विद्यालय, नरैनापुर घाट दक्षिणी भाग ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_261",
+                  "number": "69",
+                  "name": "सामुदायिक भवन नवका टोला डुमवलिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_271",
+                  "number": "70",
+                  "name": "राजकीय प्राथमिक विद्यालय डुमवलिया उर्दू मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_281",
+                  "number": "71",
+                  "name": "राजकीय प्राथमिक विद्यालय डुमवलिया उर्दू बाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_291",
+                  "number": "72",
+                  "name": "राजकीय प्राथमिक विद्यालय डुमवलिया उर्दू दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_301",
+                  "number": "73",
+                  "name": "बगहा-1 प्रखण्ड कार्यालय भवन दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_311",
+                  "number": "74",
+                  "name": "बगहा-1 प्रखण्ड कार्यालय भवन बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_321",
+                  "number": "75",
+                  "name": "प्राथमिक विद्यालय पारस नगर पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_331",
+                  "number": "76",
+                  "name": "प्राथमिक विद्यालय पारस नगर पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_341",
+                  "number": "77",
+                  "name": "अंचल कार्यालय भवन बगहा-1",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_351",
+                  "number": "78",
+                  "name": "प्रखण्ड कार्यालय बगहा 1 सभा भवन दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_361",
+                  "number": "79",
+                  "name": "प्रखण्ड कार्यालय बगहा-1 स्थित नया भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_371",
+                  "number": "80",
+                  "name": "प्रखण्ड विकास पदाधिकारी, बगहा-1, कार्यालय पुराना भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_381",
+                  "number": "81",
+                  "name": "मध्य विद्यालय बालक बगहा बाजार पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_391",
+                  "number": "82",
+                  "name": "नगर परिषद, बगहा कार्यालय पुराना भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_401",
+                  "number": "83",
+                  "name": "मध्य विद्यालय बालक बगहा बाजार मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_411",
+                  "number": "84",
+                  "name": "मध्य विद्यालय बालक बगहा बाजार पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_421",
+                  "number": "85",
+                  "name": "प्राथमिक विद्यालय  बबुई टोला उत्तरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_431",
+                  "number": "86",
+                  "name": "प्राथमिक विद्यालय बबुई टोला दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_441",
+                  "number": "87",
+                  "name": "श्री राम नरेश राजकीय प्राथमिक विद्यालय बुधवारी बाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_451",
+                  "number": "88",
+                  "name": "श्री राम नरेश राजकीय प्राथमिक विद्यालय बुधवारी दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_461",
+                  "number": "89",
+                  "name": "देवी मंगल उच्च विद्यालय बगहा पूर्वी भाग का दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_471",
+                  "number": "90",
+                  "name": "देवी मंगल उच्च विद्यालय बगहा पश्चिमी भाग का  दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_481",
+                  "number": "91",
+                  "name": "देवी मंगल उच्च विद्यालय बगहा उतरी भाग का दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_491",
+                  "number": "92",
+                  "name": "देवी मंगल उच्च विद्यालय बगहा मध्य भाग का दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_501",
+                  "number": "93",
+                  "name": "देवी मंगल उच्च विद्यालय बगहा मध्य भाग का बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_511",
+                  "number": "94",
+                  "name": "सहकारिता बैक बगहा पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_521",
+                  "number": "95",
+                  "name": "सहकारिता बैंक बगहा पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_531",
+                  "number": "96",
+                  "name": "प्राथमिक विद्यालय गोडिया पट्टी पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_541",
+                  "number": "97",
+                  "name": "प्राथमिक विद्यालय गोडिया पट्‌टी मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_551",
+                  "number": "98",
+                  "name": "प्राथमिक विद्यालय गोडिया पट्टी पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_561",
+                  "number": "99",
+                  "name": "प्राथमिक विद्यालय वाणीपट्टी दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_571",
+                  "number": "100",
+                  "name": "प्राथमिक विद्यालय वाणीपटी दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_581",
+                  "number": "101",
+                  "name": "राजकीय प्राथमिक कन्या विद्यालय बनकटवा बाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_591",
+                  "number": "102",
+                  "name": "राजकीय प्राथमिक कन्या विद्यालय बनकटवा दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_601",
+                  "number": "103",
+                  "name": "प्राथमिक विद्यालय बनकटवा अनुसूचित जाति ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_611",
+                  "number": "104",
+                  "name": "प्राथमिक विद्यालय बनकटवा बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_621",
+                  "number": "105",
+                  "name": "प्राथमिक विद्यालय बनकटवा दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_631",
+                  "number": "106",
+                  "name": "प्राथमिक विद्यालय बनकटवा मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_641",
+                  "number": "107",
+                  "name": "राजकीय मध्य विद्यालय रतनमाला पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_651",
+                  "number": "108",
+                  "name": "राजकीय मध्य विद्यालय रतनमाला पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_661",
+                  "number": "109",
+                  "name": "आयुर्वेदिय श्री चन्द्रोदय प्राथमिक-सह- मध्य विद्यालय रतनमाला",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_671",
+                  "number": "110",
+                  "name": "राजकीय प्राथमिक विद्यालय रतनमाला उर्दू पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_681",
+                  "number": "111",
+                  "name": "राजकीय प्राथमिक विद्यालय रतनमाला रेता",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_691",
+                  "number": "112",
+                  "name": "राजकीय प्राथमिक विद्यालय रतनमाला उर्दू पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_701",
+                  "number": "113",
+                  "name": "समुदायिक भवन पुस्तकालय रतनमाला",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_711",
+                  "number": "114",
+                  "name": "प्राथमिक विद्यालय मलपुरवा दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_721",
+                  "number": "115",
+                  "name": "प्राथमिक विद्यालय मलपुरवा उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_731",
+                  "number": "116",
+                  "name": "प्राथमिक विद्यालय मलपुरवा मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_741",
+                  "number": "117",
+                  "name": "प्राथमिक विद्यालय तेलिया पट्टी",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_751",
+                  "number": "118",
+                  "name": "प्राथमिक विद्यालय पुअर हाउस",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "block11",
+          "name": "बगहा-1",
+          "assemblyNo": "004",
+          "assemblyName": "बगहा ",
+          "panchayats": [
+            {
+              "id": "panchayat127",
+              "name": "महिपुर भतौड़ा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "119",
+                  "name": "उत्क्रमित मध्य विद्यालय अहिरवलिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "120",
+                  "name": "प्राथमिक विद्यालय भतौडा उर्दू",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "121",
+                  "name": "मध्य विद्यालय कुम्हिया पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "122",
+                  "name": "मध्य विद्यालय कुम्हिया पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "123",
+                  "name": "मध्य विद्यालय कुम्हिया पुराना भवन पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "124",
+                  "name": "उत्क्रमित मध्य विद्यालय पाकडगाँव बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "125",
+                  "name": "उत्क्रमित मध्य विद्यालय पाकड़गॉव दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "126",
+                  "name": "उत्क्रमित मध्य विद्यालय  महिपुर बाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "127",
+                  "name": "उत्क्रमित मध्य विद्यालय  महिपुर दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat128",
+              "name": "भैरोगंज",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "128",
+                  "name": "उत्क्रमित मध्य विद्यालय सिरिसिया  पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "129",
+                  "name": "उत्क्रमित मध्य विद्यालय सिरिसिया पश्चिम भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "130",
+                  "name": "सामुदायिक भवन लक्ष्मीपुर दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "131",
+                  "name": "सामुदायिक भवन लक्ष्मीपुर बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "132",
+                  "name": "प्राथमिक विद्यालय कपरधिका",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "133",
+                  "name": "प्राथमिक विद्यालय भैरोगंज",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "134",
+                  "name": "उत्क्रमित मध्य विद्यालय जुडा दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "135",
+                  "name": "उत्क्रमित मध्य विद्यालय जुडा उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "136",
+                  "name": "उत्क्रमित मध्य विद्यालय जुडा मध्य  भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat129",
+              "name": "नड्‌डा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "137",
+                  "name": "मध्य विद्यालय नड्‌डा पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "138",
+                  "name": "मध्य विद्यालय नड्‌डा पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "139",
+                  "name": "मध्य विद्यालय नड्‌डा नया भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "140",
+                  "name": "मध्य विद्यालय नड्‌डा मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "141",
+                  "name": "प्राथमिक विद्यालय इनारबरवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "142",
+                  "name": "राजकीयकृत उच्चत्तर माध्यमिक विद्यालय भैरोगंज उत्तर भाग ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "143",
+                  "name": "राजकीयकृत उच्चत्तर माध्यमिक विद्यालय भैरोगंज दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat130",
+              "name": " परसा बनचहरी",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "144",
+                  "name": "उत्क्रमित मध्य विद्यालय बनचहरी पूर्वी भाग का दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "145",
+                  "name": "उत्क्रमित मध्य विद्यालय बनचहरी पूर्वी भाग का बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "146",
+                  "name": "उत्क्रमित मध्य विद्यालय बनचहरी पश्चिम भाग का दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "147",
+                  "name": "उत्क्रमित मध्य विद्यालय बनचहरी पश्चिम भाग बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "148",
+                  "name": "प्राथमिक विद्यालय धर्मपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "149",
+                  "name": "प्राथमिक विद्यालय अवरहिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "150",
+                  "name": "उत्क्रमित उच्च विद्यालय परसा उत्तरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "151",
+                  "name": "उत्क्रमित उच्च विद्यालय परसा दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "152",
+                  "name": "प्राथमिक विद्यालय खोडा परसा ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat131",
+              "name": "बड़गॉव",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "153",
+                  "name": "पंचायत भवन छोटकी पट्‌टी बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "154",
+                  "name": "पंचायत भवन छोटकी पट्‌टी दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "155",
+                  "name": "राजकीय अनुसूचित जाति आवासीय उच्च विद्यालय चौतरवा उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "156",
+                  "name": "राजकीय अनुसूचित जाति आवासीय उच्च विद्यालय चौतरवा मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "157",
+                  "name": "राजकीय अनुसूचित जाति आवासीय उच्च विद्यालय चौतरवा दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "158",
+                  "name": "राजकीय मध्य विद्यालय बडगाँव उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "159",
+                  "name": "राजकीय मध्य विद्यालय बडगाँव दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat132",
+              "name": "चखनी रजवटिया",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "160",
+                  "name": "राजकीय उच्च माध्यमिक विद्यालय चखनी पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "161",
+                  "name": "राजकीय उच्च माध्यमिक विद्यालय चखनी पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "162",
+                  "name": "पंचायत भवन चखनी बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "163",
+                  "name": "पंचायत भवन चखनी दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "164",
+                  "name": "संत तेरेसा कन्या मध्य विद्यालय चखनी उत्तरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "165",
+                  "name": "संत तेरेसा कन्या मध्य विद्यालय चखनी दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "166",
+                  "name": "संत तेरेसा कन्या मध्य विद्यालय चखनी मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat133",
+              "name": " सिगाड़ी पिपरिया",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "167",
+                  "name": "प्राथमिक विद्यालय खैरटवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "168",
+                  "name": "प्राथमिक विद्यालय पिपरिया नया टोला दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "169",
+                  "name": "प्राथमिक विद्यालय पिपरिया नया टोला बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "170",
+                  "name": "उत्क्रमित मध्य विद्यालय पिपरिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "171",
+                  "name": "उत्क्रमित मध्य विद्यालय सिगाड़ी दक्षिण भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "172",
+                  "name": "उत्क्रमित मध्य विद्यालय  सिगाडी उतर भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "173",
+                  "name": "प्राथमिक विद्यालय अमवलिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "174",
+                  "name": "उत्क्रमित मध्य विद्यालय डुमरिया दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "175",
+                  "name": "उत्क्रमित मध्य विद्यालय डुमरिया बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat134",
+              "name": "भैंसही पाड़रखाप",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "176",
+                  "name": "प्राथमिक विद्यालय शिवराजपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "177",
+                  "name": "उत्क्रमित मध्य विद्यालय पाडरखाप",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "178",
+                  "name": "प्राथमिक विद्यालय हरपुर ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "179",
+                  "name": "उत्क्रमित मध्य विद्यालय भैसही बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "180",
+                  "name": "उत्क्रमित मध्य विद्यालय भैसही दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "181",
+                  "name": "प्राथमिक विद्यालय देउरवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat135",
+              "name": "कोल्हुआ चौतरवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "182",
+                  "name": "प्राथमिक विद्यालय पकडी हिन्दी दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "183",
+                  "name": "प्राथमिक विद्यालय पकडी हिन्दी बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "184",
+                  "name": "उत्क्रमित मध्य विद्यालय कोल्हुआ चौतरवा उर्दू बालक पुराना भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "185",
+                  "name": "उत्क्रमित मध्य विद्यालय कोल्हुआ चौतरवा उर्दू बालक नया भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "186",
+                  "name": "उत्क्रमित मध्य विद्यालय कोल्हुआ चौतरवा उर्दू बालक दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "187",
+                  "name": "उत्क्रमित मध्य विद्यालय कोल्हुआ चौतरवा उर्दू बालक बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "188",
+                  "name": "उत्क्रमित मध्य विद्यालय कोल्हुआ चौतरवा उर्दू बालक मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "189",
+                  "name": "राजकीय उत्क्रमित मध्य  विद्यालय विशम्भरापुर गडहिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "190",
+                  "name": "उत्क्रमित मध्य विद्यालय मेहदी",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_91",
+                  "number": "191",
+                  "name": "उत्क्रमित मध्य विद्यालय सिक्टौर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat136",
+              "name": "बासगॉव मंझरिया",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "192",
+                  "name": "उत्क्रमित मध्य विद्यालय नोनिया पट्‌टी",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "193",
+                  "name": "आदर्श राजकीय उत्क्रमित मध्य विद्यालय बासगाँव उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "194",
+                  "name": "आदर्श राजकीय उत्क्रमित मध्य विद्यालय बासगाँव दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "195",
+                  "name": "पंचायत भवन बासगाँव",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "196",
+                  "name": "उत्क्रमित मध्य विद्यालय मंझरिया टोला परसौनी",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "197",
+                  "name": "संस्कृत विद्यालय मंझरिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "198",
+                  "name": "मध्य विद्यालय मंझरिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "199",
+                  "name": "प्राथमिक विद्यालय खजुरी",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat137",
+              "name": "रायबारी महुअवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "200",
+                  "name": "राजकीय उच्च माध्यमिक विद्यालय रायबारी महुअवा हिन्दी उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "201",
+                  "name": "राजकीय उच्च माध्यमिक विद्यालय रायबारी महुअवा हिन्दी दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "202",
+                  "name": "प्राथमिक विद्यालय रायबारी महुअवा उर्दू बालक",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "203",
+                  "name": "प्रथमिक विद्यालय रायबारी महुआवा उर्दू कन्या",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "204",
+                  "name": "राजकीय प्राथमिक विद्यालय भुलहवा डीह उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "205",
+                  "name": "राजकीय प्राथमिक विद्यालय भुलहवा डीह दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat138",
+              "name": "हरदी नदवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "206",
+                  "name": "प्राथमिक विद्यालय प्रतापपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "207",
+                  "name": "प्राथमिक विद्यालय मुडली हिन्दी पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "208",
+                  "name": "प्राथमिक विद्यालय मुडली हिन्दी पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "209",
+                  "name": "प्राथमिक विद्यालय मुडली हिन्दी परिसर नया भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "210",
+                  "name": "प्राथमिक विद्यालय मुडली उर्दू",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "211",
+                  "name": "उत्क्रमित मध्य विद्यालय नदवा दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "212",
+                  "name": "उत्क्रमित मध्य विद्यालय नदवा बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "213",
+                  "name": "उत्क्रमित मध्य विद्यालय कवलापुर कौलाची",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat139",
+              "name": "मेहुड़ा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "214",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय विशम्भरापुर बाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "215",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय विशम्भरापुर दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "216",
+                  "name": "प्राथमिक विद्यालय मसहवा दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "217",
+                  "name": "प्राथमिक विद्यालय मसहवा बाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "218",
+                  "name": "उत्क्रमित मध्य विद्यालय विशम्भरापुर नोनिया टोला",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "219",
+                  "name": "मध्य विद्यालय मेहुडा उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "220",
+                  "name": "मध्य विद्यालय मेहुडा दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat140",
+              "name": " पतिलार",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "221",
+                  "name": "राजकीय प्राथमिक विद्यालय पतिलार उर्दू",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "222",
+                  "name": "राजकीय प्राथमिक विद्यालय पतिलार कन्या बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "223",
+                  "name": "राजकीय प्राथमिक विद्यालय पतिलार कन्या दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "224",
+                  "name": "10+2 राजकीयकृत श्री हरिहर उच्चत्तर माध्यमिक विद्यालय पतिलार",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "225",
+                  "name": "प्राथमिक विद्यालय पतिलार लक्ष्मीपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "226",
+                  "name": "बेसिक स्कूल पतिलार बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "227",
+                  "name": "बेसिक स्कूल पतिलार दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "228",
+                  "name": "मध्य विद्यालय पतिलार उत्तरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "229",
+                  "name": "मध्य विद्यालय पतिलार दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat141",
+              "name": "  चन्दरपुर रतवल",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "230",
+                  "name": "राजकीय उत्क्रमित उच्च मध्यमिक विद्यालय चन्दरपुर भिड़ारी रेता बगहा-1",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "231",
+                  "name": "राजकीय प्राथमिक विद्यालय चन्दरपुर बकवा बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "232",
+                  "name": "राजकीय प्राथमिक विद्यालय चन्दरपुर बकवा दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "233",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रतवल कन्या उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "234",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रतवल कन्या दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "235",
+                  "name": "प्राथमिक विद्यालय भठहिया ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat142",
+              "name": "बीबी बनकटवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "236",
+                  "name": "उत्क्रमित मध्य विद्यालय विशुनपुरवा बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "237",
+                  "name": "उत्क्रमित मध्य विद्यालय विशुनपुरवा दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "238",
+                  "name": "उत्क्रमित माध्यमिक विद्यालय बीबी बनकटवा उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "239",
+                  "name": "उत्क्रमित माध्यमिक विद्यालय बीबी बनकटवा  मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "240",
+                  "name": "उत्क्रमित माध्यमिक विद्यालय बीबी बनकटवा  दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "241",
+                  "name": "सामुदायिक भवन भरवलिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "242",
+                  "name": "प्राथमिक विद्यालय चूडिहरवा दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "243",
+                  "name": "प्राथमिक विद्यालय  चूडिहरवा बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat143",
+              "name": "लगुनाहा चौतरवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "244",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय चौतरवा उत्तरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "245",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय चौतरवा नया भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "246",
+                  "name": "उत्क्रमित मध्य विद्यालय चौतरवा दक्षिणी भाग का दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "247",
+                  "name": "उत्क्रमित मध्य विद्यालय चौतरवा दक्षिणी भाग का बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "248",
+                  "name": "प्राथमिक विद्यालय बहुअरवा कांटा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "249",
+                  "name": "उत्क्रमित मध्य विद्यालय लगुनाहा अनुसूचित जाति दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "250",
+                  "name": "उत्क्रमित मध्य विद्यालय लगुनाहा अनुसूचित जाति बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "251",
+                  "name": "सामुदायिक भवन चौबरिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "252",
+                  "name": "प्राथमिक विद्यालय लगुनाहा कन्या दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_91",
+                  "number": "253",
+                  "name": "प्राथमिक विद्यालय लगुनाहा कन्या बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_101",
+                  "number": "254",
+                  "name": "प्राथमिक विद्यालय लगुनाहा कारखाना ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat144",
+              "name": "बसवरिया",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "255",
+                  "name": "राजकीय उच्च माध्यमिक विद्यालय बसवरिया उतरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "256",
+                  "name": "राजकीय उच्च माध्यमिक विद्यालय बसवरिया दक्षिणी  भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "257",
+                  "name": "प्राथमिक विद्यालय बहुअरवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "258",
+                  "name": "राजकीय प्राथमिक विद्यालय करजनिया पूर्वी भाग ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "259",
+                  "name": "राजकीय प्राथमिक विद्यालय करजनिया पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "260",
+                  "name": "उत्क्रमित मध्य विद्यालय पूर्वी लगुनाहा दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "261",
+                  "name": "उत्क्रमित मध्य विद्यालय पूर्वी लगुनाहा बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat145",
+              "name": " सलहा बरिअरवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "262",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय झारमहुई उर्दू पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "263",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय झारमहुई उर्दू पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "264",
+                  "name": "उत्क्रमित मध्य विद्यालय सलहा पक्का बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "265",
+                  "name": "उत्क्रमित मध्य विद्यालय सलहा पक्का दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "266",
+                  "name": "उत्क्रमित मध्य विद्यालय सलहा पक्का मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "267",
+                  "name": "मध्य विद्यालय बरिअरवा पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "268",
+                  "name": "मध्य विद्यालय बरिअरवा  पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "269",
+                  "name": "मध्य विद्यालय बरिअरवा मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat146",
+              "name": "सिसवा बसंतपुर",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "270",
+                  "name": "प्राथमिक विद्यालय सिसवा बसंतपुर पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "271",
+                  "name": "प्राथमिक विद्यालय सिसवा बसंतपुर पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "272",
+                  "name": "उत्क्रमित उच्च विद्यालय सिसवा वसंतपुर",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "273",
+                  "name": "उत्क्रमित मध्य विद्यालय जमदार टोला दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "274",
+                  "name": "उत्क्रमित मध्य विद्यालय जमदार टोला बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "275",
+                  "name": "उत्क्रमित मध्य विद्यालय बसंतपुर उर्दू उतरी भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "276",
+                  "name": "उत्क्रमित मध्य विद्यालय बसन्तपुर उर्दू दक्षिणी भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat147",
+              "name": "इंगलिशिया ",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "277",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बरवा",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "278",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय इंगलिशिया दक्षिणी भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "279",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय इंगलिशिया पूर्वी भवन",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "280",
+                  "name": "प्राथमिक विद्यालय धर्मक्ता बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "281",
+                  "name": "प्राथमिक विद्यालय धर्मक्ता दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "282",
+                  "name": "प्राथमिक विद्यालय गोसाई टोला",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "283",
+                  "name": "उत्क्रमित मध्य विद्यालय जैनीटोला बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "284",
+                  "name": "उत्क्रमित मध्य विद्यालय जैनी टोला दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "285",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बाबु के मंझरिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat148",
+              "name": "मझौवा",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "286",
+                  "name": "राजकीय मध्य विद्यालय परसौनी पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "287",
+                  "name": "राजकीय मध्य विद्यालय परसौनी  पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "288",
+                  "name": "राजकीय मध्य विद्यालय परसौनी  मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "289",
+                  "name": "प्राथमिक विद्यालय मझौवा उत्तरी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "290",
+                  "name": "प्राथमिक विद्यालय मझौवा दक्षिणी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "291",
+                  "name": "उत्क्रमित मध्य विद्यालय मानपुर मकरी स्थित मझौवा पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "292",
+                  "name": "उत्क्रमित मध्य विद्यालय मानपुर मकरी स्थित मझौवा पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "293",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बाबु के मंझरिया दायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "294",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बाबु के मंझरिया  बायाँ भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat149",
+              "name": " टेसरहिया बथुवरिया",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "295",
+                  "name": "राजकीय बुनियादी विद्यालय मानपुर मठिया पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "296",
+                  "name": "राजकीय बुनियादी विद्यालय मानपुर मठिया मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "297",
+                  "name": "राजकीय बुनियादी विद्यालय मानपुर मठिया   पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "298",
+                  "name": "उत्क्रमित मध्य विद्यालय टेसरहिया कन्या बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "299",
+                  "name": "उत्क्रमित मध्य विद्यालय टेसरहिया कन्या दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "300",
+                  "name": "उत्क्रमित माध्यमिक विद्यालय बथुवड़िया दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "301",
+                  "name": "उत्क्रमित माध्यमिक विद्यालय बथुवड़िया बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "302",
+                  "name": "उत्क्रमित माध्यमिक विद्यालय बथुवड़िया मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "303",
+                  "name": "द्वाकरा भवन बथुवरिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_91",
+                  "number": "304",
+                  "name": "उत्क्रमित मध्य विद्यालय जमुनिया पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_101",
+                  "number": "305",
+                  "name": "उत्क्रमित मध्य विद्यालय जमुनिया पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            },
+            {
+              "id": "panchayat150",
+              "name": "चन्द्राहा रूपवलिया",
+              "assemblyNo": "004",
+              "assemblyName": "बगहा ",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "306",
+                  "name": "राजकीय प्राथमिक विद्यालय पिपरा भठहिया दाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_11",
+                  "number": "307",
+                  "name": "राजकीय प्राथमिक विद्यालय पिपरा भठहिया बाया भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_21",
+                  "number": "308",
+                  "name": "उत्क्रमित मध्य विद्यालय नवगावाँ",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_31",
+                  "number": "309",
+                  "name": "मध्य विद्यालय चन्द्राहाँ पूर्वी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_41",
+                  "number": "310",
+                  "name": "मध्य विद्यालय चन्द्राहाँ मध्य भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_51",
+                  "number": "311",
+                  "name": "मध्य विद्यालय चन्द्राहाँ पश्चिमी भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_61",
+                  "number": "312",
+                  "name": "प्राथमिक विद्यालय रूपवलिया बायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_71",
+                  "number": "313",
+                  "name": "प्राथमिक विद्यालय रूपवलिया दायां भाग",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_81",
+                  "number": "314",
+                  "name": "सामुदायिक भवन रूपवलिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                },
+                {
+                  "id": "ps_91",
+                  "number": "315",
+                  "name": "आंगनवाडी केन्द्र संख्या 213 रूपवलिया",
+                  "assemblyNo": "004",
+                  "assemblyName": "बगहा "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -7904,6 +10365,4480 @@ const voterData = {
                   "name": "उत्क्रमित मध्य विद्यालय, लिपनी ब्यासपुर, दक्षिणी भाग",
                   "assemblyNo": "003",
                   "assemblyName": "रामनगर (अ.जा.) "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "block12",
+          "name": "लौरिया",
+          "assemblyNo": "005",
+          "assemblyName": "लौरिया",
+          "panchayats": [
+            {
+              "id": "panchayat151",
+              "name": "सिसवनिया",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "1",
+                  "name": "उत्क्रमित मध्य विद्यालय सिसवनिया शुक्ल टोला बाजार",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "2",
+                  "name": "प्राथमिक विद्यालय सिसवनिया शुक्ल टोला पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "3",
+                  "name": "प्राथमिक विद्यालय सिसवनिया शुक्ल टोला पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "4",
+                  "name": "राजकीय प्राथमिक विद्यालय बरवाकला पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "5",
+                  "name": "राजकीय प्राथमिक विद्यालय बरवाकला मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "6",
+                  "name": "राजकीय प्राथमिक विद्यालय बरवाकला पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "7",
+                  "name": "राजकीय प्राथमिक उर्दू विद्यालय जोलहा टोली पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "8",
+                  "name": "राजकीय प्राथमिक उर्दू विद्यालय जोलहा टोली पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "9",
+                  "name": "राजकीय प्राथमिक उर्दू विद्यालय जोलहा टोली मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat152",
+              "name": "कटैया",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "10",
+                  "name": "उत्क्रमित मध्य विद्यालय बरवाशेख पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "11",
+                  "name": "उत्क्रमित मध्य विद्यालय बरवाशेख पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "12",
+                  "name": "उत्क्रमित मध्य विद्यालय लंगडी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "13",
+                  "name": "प्राथमिक विद्यालय हरपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "14",
+                  "name": "प्राथमिक विद्यालय कटैया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "15",
+                  "name": "प्राथमिक विद्यालय कटैया पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "16",
+                  "name": "मध्य विद्यालय फुलवरिया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "17",
+                  "name": "मध्य विद्यालय फुलवरिया पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "18",
+                  "name": "प्राथमिक विद्यालय फुलवरिया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "19",
+                  "name": "प्राथमिक विद्यालय फुलवरिया पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat153",
+              "name": "लौरिया",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "20",
+                  "name": "प्राथमिक विद्यालय धांगड टोली",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "21",
+                  "name": "उत्क्रमित मध्य विद्यालय नन्दनगढ, ढढ़वा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "22",
+                  "name": "प्राथमिक विद्यालय वृति टोला उर्दू",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "23",
+                  "name": "उत्क्रमित मध्य विद्यालय मरहिया, पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "24",
+                  "name": "उत्क्रमित मध्य विद्यालय मरहिया, पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "25",
+                  "name": "प्राथमिक विद्यालय पडरौन दायाँ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "26",
+                  "name": "प्राथमिक विद्यालय पडरौन बायाँ भाग ",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "27",
+                  "name": "राजकीय मध्य विद्यालय लौरिया बालक पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "28",
+                  "name": "राजकीय मध्य विद्यालय लौरिया बालक पश्चिमी भाग ",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "29",
+                  "name": "राजकीय मध्य विद्यालय लौरिया बालक  मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "30",
+                  "name": "कन्या मध्य विद्यालय लौरिया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "31",
+                  "name": "कन्या मध्य विद्यालय लौरिया उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "32",
+                  "name": "बागड़ कुँअर कन्या उच्च माध्यमिक विद्यालय पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "33",
+                  "name": "बागड़ कुँअर कन्या उच्च माध्यमिक विद्यालय पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_141",
+                  "number": "34",
+                  "name": "राजकीय प्राथमिक विद्यालय उर्दू लौरिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat154",
+              "name": "गोबरौरा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "35",
+                  "name": "लालपति कुँअर उत्क्रमित मध्य विद्यालय मटियरिया उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "36",
+                  "name": "लालपति कुँअर उत्क्रमित मध्य विद्यालय  मटियरिया दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "37",
+                  "name": "प्राथमिक विद्यालय बघलोचना",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "38",
+                  "name": "मध्य विद्यालय गोबरौरा पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "39",
+                  "name": "मध्य विद्यालय गोबरौरा पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "40",
+                  "name": "उत्क्रमित मध्य विद्यालय कन्या गोबरौरा उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "41",
+                  "name": "उत्क्रमित मध्य विद्यालय कन्या गोबरौरा दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat155",
+              "name": "बहुअरवा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "42",
+                  "name": "मध्य विद्यालय जमुनिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "43",
+                  "name": "प्राथमिक विद्यालय बहुअरवा दायाँ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "44",
+                  "name": "प्राथमिक विद्यालय बहुअरवा बायाँ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "45",
+                  "name": "प्राथमिक विद्यालय नोनीपाकड़",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "46",
+                  "name": "मध्य विद्यालय खजुरिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "47",
+                  "name": "उत्क्रमित मध्य विद्यालय गोनाही दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "48",
+                  "name": "उत्क्रमित मध्य विद्यालय गोनाही पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat156",
+              "name": "साठी",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "49",
+                  "name": "उत्क्रमित मध्य विद्यालय परसौनी पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "50",
+                  "name": "उत्क्रमित मध्य विद्यालय परसौनी पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "51",
+                  "name": "प्राथमिक विद्यालय रायबरवा पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "52",
+                  "name": "प्राथमिक विद्यालय रायबरवा पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "53",
+                  "name": "उत्क्रमित मध्य विद्यालय साठी पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "54",
+                  "name": "उत्क्रमित मध्य विद्यालय साठी उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "55",
+                  "name": "उत्क्रमित मध्य विद्यालय साठी दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "56",
+                  "name": "प्राथमिक विद्यालय दुमदुमवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "57",
+                  "name": "कन्या प्राथमिक विद्यालय सतवरिया दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "58",
+                  "name": "कन्या प्राथमिक विद्यालय सतवरिया उतरी  भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "59",
+                  "name": "मध्य विद्यालय सतवरिया दायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "60",
+                  "name": "मध्य विद्यालय सतवरिया बायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "61",
+                  "name": "उत्क्रमित मध्य विद्यालय सिंहपुर उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "62",
+                  "name": "उत्क्रमित मध्य विद्यालय सिंहपुर दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_141",
+                  "number": "63",
+                  "name": "प्राथमिक विद्यालय सिंहपुर कुर्मी टोला",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat157",
+              "name": "बसंतपुर",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "64",
+                  "name": "उत्क्रमित मध्य विद्यालय बंसतपुर पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "65",
+                  "name": "उत्क्रमित मध्य विद्यालय बंसतपुर मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "66",
+                  "name": "उत्क्रमित मध्य विद्यालय बंसतपुर पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "67",
+                  "name": "प्राथमिक विद्यालय छर्दवाली ",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat158",
+              "name": "धमौरा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "68",
+                  "name": "उत्क्रमित मध्य विद्यालय वृन्दावन उर्दू ",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "69",
+                  "name": "राजकीय प्राथमिक विद्यालय धमौरा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "70",
+                  "name": "उर्दू प्राथमिक विद्यालय चॉदबरवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "71",
+                  "name": "मध्य विद्यालय धमौरा पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "72",
+                  "name": "मध्य विद्यालय धमौरा पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "73",
+                  "name": "उत्क्रमित मध्य विद्यालय लक्ष्मीपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "74",
+                  "name": "मध्य विद्यालय लछनौता पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "75",
+                  "name": "मध्य विद्यालय लछनौता पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat159",
+              "name": "धोबनी धर्मपुर",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "76",
+                  "name": "प्राथमिक विद्यालय धर्मपुर हिन्दी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "77",
+                  "name": "उत्क्रमित मध्य विद्यालय मुसहरी ",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "78",
+                  "name": "उर्दू प्राथमिक विद्यालय धोबनी पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "79",
+                  "name": "उर्दू प्राथमिक विद्यालय धोबनी पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "80",
+                  "name": "उत्क्रमित मध्य विद्यालय बरवाकाला दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "81",
+                  "name": "उत्क्रमित मध्य विद्यालय बरवाकला उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "82",
+                  "name": "प्राथमिक विद्यालय लक्षनौता",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat160",
+              "name": "दनियाल परसौना",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "83",
+                  "name": "उत्क्रमित मध्य विद्यालय सुअर छाप दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "84",
+                  "name": "उत्क्रमित मध्य विद्यालय सुअर छाप मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "85",
+                  "name": "उत्क्रमित मध्य विद्यालय सुअर छाप उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "86",
+                  "name": "उत्क्रमित मध्य विद्यालय रामपरसौना उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "87",
+                  "name": "उत्क्रमित मध्य विद्यालय रामपरसौना दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "88",
+                  "name": "आर्दश संकुल मध्य विद्यालय दनियाल परसौना उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "89",
+                  "name": "आर्दश संकुल मध्य विद्यालय दनियाल परसौना दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "90",
+                  "name": "आर्दश संकुल मध्य विद्यालय दनियाल परसौना मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat161",
+              "name": "बेलवा लखनपुर",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "91",
+                  "name": "प्राथमिक विद्यालय बेलवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "92",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय दुबौलिया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "93",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय दुबौलिया पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "94",
+                  "name": "उत्क्रमित मध्य विद्यालय लखनपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "95",
+                  "name": "सामुदायिक भवन गोखुला",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "96",
+                  "name": "उत्क्रमित मध्य विद्यालय जवाहिरपुर पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "97",
+                  "name": "उत्क्रमित मध्य विद्यालय जवाहिरपुर पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat162",
+              "name": "बसवरिया पराउटोला",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "98",
+                  "name": "उत्क्रमित मध्य विद्यालय बसवरिया हिन्दी उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "99",
+                  "name": "उत्क्रमित मध्य विद्यालय बसवरिया हिन्दी दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "100",
+                  "name": "प्राथमिक विद्यालय ठाकुर टोला",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "101",
+                  "name": "उत्क्रमित मध्य विद्यालय लोहरपटिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "102",
+                  "name": "राजकीय प्राथमिक विद्यालय डुमरा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "103",
+                  "name": "उत्क्रमित मध्य विद्यालय पराउटोला पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "104",
+                  "name": "उत्क्रमित मध्य विद्यालय पराउटोला पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "105",
+                  "name": "मध्य विद्यालय बनकटवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat163",
+              "name": "मठिया",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "106",
+                  "name": "मध्य विद्यालय मठिया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "107",
+                  "name": "मध्य विद्यालय मठिया मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "108",
+                  "name": "मध्य विद्यालय मठिया पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "109",
+                  "name": "उत्क्रमित माध्यमिक विद्यालय मठिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "110",
+                  "name": "सामुदायिक भवन मठिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "111",
+                  "name": "प्राथमिक विद्यालय परसा धांगड़ टोली",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "112",
+                  "name": "उत्क्रमित मध्य विद्यालय पड़री",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "subdivision3",
+      "name": "बेतिया",
+      "assemblyNo": "005",
+      "assemblyName": "लौरिया",
+      "blocks": [
+        {
+          "id": "block13",
+          "name": "योगापट्टी",
+          "assemblyNo": "005",
+          "assemblyName": "लौरिया",
+          "panchayats": [
+            {
+              "id": "panchayat164",
+              "name": "बहुअरवा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "113",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय परसा शरणार्थी पूर्वी भाग,",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "114",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय परसा शरणार्थी पश्चिमी भाग,",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "115",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय परसा शरणार्थी दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "116",
+                  "name": "राजकीय मध्य विद्यालय पकड़ीहार, पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "117",
+                  "name": "राजकीय मध्य विद्यालय पकड़ीहार पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "118",
+                  "name": "राजकीय प्राथमिक विद्यालय बहुअरवा, राजवंशी दुबे टोला दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "119",
+                  "name": "राजकीय प्राथमिक विद्यालय बहुअरवा, राजवंशी दुबे टोला उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "120",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मिश्रौली बाजार उर्दू",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "121",
+                  "name": "राजकीय मध्य विद्यालय मिश्रौली",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat165",
+              "name": "बासोपट्‌टी",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "122",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय पटखौली",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "123",
+                  "name": "राजकीय प्राथमिक विद्यालय दुलारपट्टी पाण्डेय टोला पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "124",
+                  "name": "राजकीय प्राथमिक विद्यालय दुलारपट्‌टी पाण्डेय टोला पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "125",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बासोपट्‌टी पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "126",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बासोपट्‌टी पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "127",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मठिया रसुलपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "128",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय लछनौता",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "129",
+                  "name": "राजकीय प्राथमिक विद्यालय रूदलपुर पटेरवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat166",
+              "name": "बगही पुरैना",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "130",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, हरपुर बाजार हरपुरवा उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "131",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, हरपुर बाजार हरपुरवा पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "132",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय हरपुर बाजार  हरपुरवा दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "133",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "134",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, बगही मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "135",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "136",
+                  "name": "राजकीय मध्य विद्यालय पुरैना",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "137",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रामपुर बहेलिया पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "138",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रामपुर बहेलिया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat167",
+              "name": "नगर पंचायत - मच्छरगांवा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "139",
+                  "name": "राजकीय मध्य विद्यालय मच्छरगॉवा (बालक) पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "140",
+                  "name": "राजकीय मध्य विद्यालय मच्छरगॉवा (बालक) पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "141",
+                  "name": "राजकीय मध्य विद्यालय मच्छरगॉवा  कन्या",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "142",
+                  "name": "राजकीय मध्य विद्यालय मच्छरगॉवा (बालक) नया भवन",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "143",
+                  "name": "गंडक योजना विश्रामगृह मटकोटा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "146",
+                  "name": "राजकीय प्राथमिक विद्यालय दबगरवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "147",
+                  "name": "ट्राइसेम भवन हथिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "219",
+                  "name": "राजकीय प्राथमिक विद्यालय नवगॉवा, दायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "220",
+                  "name": "राजकीय प्राथमिक विद्यालय नवगॉवा, बायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "221",
+                  "name": "राजकीय कन्या मध्य विद्यालय, योगापट्‌टी, उत्तरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "222",
+                  "name": "राजकीय कन्या मध्य विद्यालय, योगापट्‌टी, दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "225",
+                  "name": "राजकीय मध्य विद्यालय फतेहपुर पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "226",
+                  "name": "राजकीय मध्य विद्यालय फतेहपुर पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat168",
+              "name": "डुमरी",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "144",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, बेलबनवा पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "145",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, बेलबनवा पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "246",
+                  "name": "राजकीय बैद्यनाथ उच्च विद्यालय लक्ष्मीपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "247",
+                  "name": "राजकीय मध्य विद्यालय डुमरी पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "248",
+                  "name": "राजकीय मध्य विद्यालय डुमरी मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "249",
+                  "name": "राजकीय मध्य विद्यालय डुमरी पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "250",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय गोला घाट डुमरी पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "251",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय गोला घाट डुमरी पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "252",
+                  "name": "पंचायत भवन गोलाघाट, डुमरी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat169",
+              "name": "दरवलिया",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "148",
+                  "name": "राजकीय प्राथमिक विद्यालय विश्रामपुर उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "149",
+                  "name": "राजकीय प्राथमिक विद्यालय विश्रामपुर दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "150",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय चोरही ",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "151",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, दरवलिया उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "152",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, दरवलिया दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "153",
+                  "name": "राजकीय प्राथमिक विद्यालय रमपुरवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat170",
+              "name": "बरवाओझा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "154",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, अमैठिया, उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "155",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, अमैठिया, दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "156",
+                  "name": "राजकीय प्राथमिक विद्यालय सेंहुड़वा उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "157",
+                  "name": "राजकीय प्राथमिक विद्यालय सेंहुड़वा, दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "158",
+                  "name": "राजकीय मध्य विद्यालय बरवा ओझा, उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "159",
+                  "name": "राजकीय मध्य विद्यालय बरवा ओझा दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "160",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सिरिसिया उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "161",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सिरिसिया दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat171",
+              "name": "दोनवार",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "162",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय ओझवलिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "163",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, सहादतपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "164",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, पिपरपाती  दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "165",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, पिपरपाती उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "166",
+                  "name": "राजकीय प्राथमिक विद्यालय शिवराजपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "167",
+                  "name": "राजकीय मध्य विद्यालय दोनवार, उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "168",
+                  "name": "राजकीय मध्य विद्यालय दोनवार,  मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "169",
+                  "name": "राजकीय मध्य विद्यालय दोनवार  दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat172",
+              "name": "सिसवा भुमिहार",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "170",
+                  "name": "राजकीय प्राथमिक विद्यालय सोनबरसा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "171",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, नन्हकार उतरी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "172",
+                  "name": "राजकीय मध्य विद्यालय सिसवा भुमिहार पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "173",
+                  "name": "राजकीय मध्य विद्यालय सिसवा भुमिहार पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "174",
+                  "name": "राजकीय प्राथमिक विद्यालय खैरटिया कन्या",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "175",
+                  "name": "राजकीय प्राथमिक विद्यालय खैरटिया मानपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "176",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खैरटिया बलडीहा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "177",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बलडीहा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat173",
+              "name": "सिसवा बैरागी",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "178",
+                  "name": "राजकीय प्राथमिक विद्यालय चौबेटोला",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "179",
+                  "name": "राजकीय प्राथमिक विद्यालय सेमरी मन बरई टोला",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "180",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सिसवा बैरागी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "181",
+                  "name": "राजकीय प्राथमिक विद्यालय बरवा सानी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "182",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, निमुईया पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "183",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, निमुईया पश्चिमी  भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "184",
+                  "name": "राजकीय मध्य विद्यालय चन्द्रौल उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "185",
+                  "name": "राजकीय मध्य विद्यालय चन्द्रौल दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat174",
+              "name": "नवलपुर",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "186",
+                  "name": "राजकीयकृत बाबा कमला दास उच्च विद्यालय नवलपुर दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "187",
+                  "name": "राजकीयकृत बाबा कमला दास उच्च विद्यालय नवलपुर पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "188",
+                  "name": "राजकीयकृत बाबा कमला दास उच्च विद्यालय नवलपुर, उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "189",
+                  "name": "राजकीय प्राथमिक विद्यालय नवलपुर उत्तरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "190",
+                  "name": "राजकीय प्राथमिक विद्यालय  नवलपुर दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "191",
+                  "name": "राजकीय प्राथमिक विद्यालय खलवा टोला, नवलपुर  पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "192",
+                  "name": "राजकीय प्राथमिक विद्यालय खलवा टोला, नवलपुर पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "193",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय ढढ़वा भवानीपुर नवलपुर,",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat175",
+              "name": "ढ़ढ़वा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "194",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय दुधियावा उत्तरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "195",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय दुधियवा दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "196",
+                  "name": "राजकीय प्राथमिक विद्यालय, पिपरपाती रमना",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "197",
+                  "name": "राजकीय प्राथमिक विद्यालय भरथापट्‌टी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "198",
+                  "name": "राजकीय प्राथमिक विद्यालय ढढ़वा मुशहर टोली",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "199",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय लकड़ा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat176",
+              "name": "पिपरहिया",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "200",
+                  "name": "राजकीय प्राथमिक विद्यालय सेमरी भवानीपुर उर्दू पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "201",
+                  "name": "राजकीय प्राथमिक विद्यालय सेमरी भवानीपुर उर्दू पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "202",
+                  "name": "पंचायत भवन सेमरी भवानीपुर पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "203",
+                  "name": "ऑगनबाड़ी केन्द्र सं0-35 इशहाक मियॉ के टोला",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "204",
+                  "name": "पंचायत भवन सेमरी भवानीपुर, पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "205",
+                  "name": "राजकीय मध्य विद्यालय पिपरहिया मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "206",
+                  "name": "राजकीय मध्य विद्यालय पिपरहिया दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "207",
+                  "name": "राजकीय मध्य विद्यालय पिपरहिया उत्तरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "208",
+                  "name": "राजकीय नवसृजीत प्राथमिक विद्यालय बिहारी यादव के टोला",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat177",
+              "name": "बलुआ भवानीपुर",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "209",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय कवलापुर  बाजार, दायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "210",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय कवलापुर बाजार, बायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "211",
+                  "name": "राजकीय प्राथमिक विद्यालय कवलापुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "212",
+                  "name": "राजकीय प्राथमिक विद्यालय कोईरगॉवा, दायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "213",
+                  "name": "राजकीय प्राथमिक विद्यालय कोईरगॉवा, बायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "214",
+                  "name": "सामुदायिक भवन, अ० जा० का टोला, बलुआ मुरत राय",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "215",
+                  "name": "राजकीय प्राथमिक विद्यालय बलुआ कन्या पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "216",
+                  "name": "राजकीय प्राथमिक विद्यालय बलुआ कन्या पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "217",
+                  "name": "राजकीय बुनियादी विद्यालय बलुआ उत्तरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "218",
+                  "name": "राजकीय बुनियादी विद्यालय बलुआ दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "253",
+                  "name": "राजकीय प्राथमिक विद्यालय ढ़बिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "254",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय भवानीपुर उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "255",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय भवानीपुर मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "256",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय भवानीपुर दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_141",
+                  "number": "257",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय जगदम्बापुर, दायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_151",
+                  "number": "258",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय जगदम्बापुर, बायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_161",
+                  "number": "259",
+                  "name": "राजकीय मध्य विद्यालय कोहड़ा उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_171",
+                  "number": "260",
+                  "name": "राजकीय मध्य विद्यालय कोहड़ा दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat178",
+              "name": "चौमुखा",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "223",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय नन्हकार दक्षिणी",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "224",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, भटवलिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "227",
+                  "name": "राजकीय मध्य विद्यालय, चौमुखा दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "228",
+                  "name": "राजकीय मध्य विद्यालय, चौमुखा उत्तरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "229",
+                  "name": "राजकीय मध्य विद्यालय चौमुखा (नया भवन) पूर्वी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "230",
+                  "name": "राजकीय मध्य विद्यालय, चौमुखा (नया भवन) पश्चिमी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "231",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, बड़हरवा चड़वा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat179",
+              "name": "खुटवनिया जरलपुर",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "232",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय डीही ढ़बेलवा-01 उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "233",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय डीही ढ़बेलवा 01 मध्य भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "234",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय डीही ढ़बेलवा-01 दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "235",
+                  "name": "राजकीय प्राथमिक विद्यालय डीही गजना उर्दू",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "236",
+                  "name": "राजकीय प्राथमिक विद्यालय खुटवनिया जरलपुर दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "237",
+                  "name": "राजकीय प्राथमिक विद्यालय खुटवनिया जरलपुर उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "238",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय डिही ढ़बेलवा-02, दायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "239",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय डिही ढ़बेलवा-02, बायॉ भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "240",
+                  "name": "सामुदायिक भवन मदरसा के पास ढ़बेलवा",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat180",
+              "name": "सिसवा मंगलपुर",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "241",
+                  "name": "ऑगनबाड़ी केन्द्र सिसवा मनीव गद्दी के घर के पास",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "242",
+                  "name": "चलन्त मतदान केन्द्र मौजा सिसवनिया, खाता सं०-305, खेसरा-865, चौहदी, उ०-रास्त  द०-कलाम मियॉ, पू०-खेसरा-866, शम्भु बिन, प० राम पलटन पटेल बांया भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "243",
+                  "name": "चलन्त मतदान केन्द्र मौजा सिसवनिया, खाता सं०-305, खेसरा-865, चौहदी, उ०-रास्त  द०-कलाम मियॉ, पू०-खेसरा-866, शम्भु बिन, प० राम पलटन पटेल दाया भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "244",
+                  "name": "आंगनबाड़ी केन्द्र संखया-185, मंगलपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "245",
+                  "name": "बाढ़ आपदा भवन, मंगलपुर",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            },
+            {
+              "id": "panchayat181",
+              "name": " पिपरा नौरंगिया",
+              "assemblyNo": "005",
+              "assemblyName": "लौरिया",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "261",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, लालगढ़",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "262",
+                  "name": "राजकीय मध्य विद्यालय चमैनिया उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "263",
+                  "name": "राजकीय मध्य विद्यालय चमैनिया दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "264",
+                  "name": "राजकीय प्राथमिक विद्यालय महावीरपुर दक्षिणी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "265",
+                  "name": "राजकीय प्राथमिक विद्यालय धनवतिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "266",
+                  "name": "राजकीय प्राथमिक विद्यालय महावीरपुर, उतरी भाग",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "267",
+                  "name": "पंचायत सरकार भवन  पिपरा नौरंगिया",
+                  "assemblyNo": "005",
+                  "assemblyName": "लौरिया"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "block14",
+          "name": "बैरिया",
+          "assemblyNo": "006",
+          "assemblyName": "नौतन",
+          "panchayats": [
+            {
+              "id": "panchayat182",
+              "name": "उतरी पटजीरवा",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "1",
+                  "name": "राजकीय मध्य विद्यालय पूजहॉ पूर्वी भाग का दाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "2",
+                  "name": "राजकीय मध्य विद्यालय पूजहॉ पूर्वी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "3",
+                  "name": "राजकीय मध्य विद्यालय पूजहॉ पश्चिमी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "4",
+                  "name": "राजकीय मध्य विद्यालय पूजहॉ पश्चिमी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "5",
+                  "name": "राजकीय मध्य विद्यालय पूजहॉ मध्य भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "6",
+                  "name": "राजकीय मध्य विद्यालय पूजहॉ मध्य भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "7",
+                  "name": "उत्क्रमित मध्य विद्यालय बनरही का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "8",
+                  "name": "उत्क्रमित मध्य विद्यालय बनरही का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "9",
+                  "name": "उत्क्रमित मध्य विद्यालय उर्दू पूजहॉ गदीयानी",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "10",
+                  "name": "उत्क्रमित मध्य विद्यालय पटजिरवा पूर्वी भाग का दाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "11",
+                  "name": "उत्क्रमित मध्य विद्यालय पटजिरवा पूर्वी भाग का बाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "12",
+                  "name": "उत्क्रमित मध्य विद्यालय पटजिरवा पश्चिम भाग का दाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "13",
+                  "name": "उत्क्रमित मध्य विद्यालय पटजिरवा पश्चिम भाग का बाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "14",
+                  "name": "केदार पाण्डेय प्रोजेक्ट कन्या उच्च विद्यालय पूजहॉ पटजिरवा",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat183",
+              "name": "दक्षिणी पटजीरवा",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "15",
+                  "name": "उत्क्रमित मध्य विद्यालय रनहा सूर्यपुर पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "16",
+                  "name": "उत्क्रमित मध्य विद्यालय रनहा सूर्यपुर पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "17",
+                  "name": "उत्क्रमित मध्य विद्यालय रनहा लाला टोला उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "18",
+                  "name": "उत्क्रमित मध्य विद्यालय रनहा लाला टोला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "19",
+                  "name": "आंगनवाडी केन्द्र घोड़हिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat184",
+              "name": "बगही बघंम्बरपुर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "20",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही बघम्बरपुर दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "21",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही बघम्बरपुर पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "22",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही बघम्बरपुर मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "23",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही बघम्बरपुर उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "24",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही निमुईया पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "25",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही निमुईया पश्चिमी भाग का  दायां भाग ",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "26",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही निमुईया पश्चिमी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "27",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सहदेव राय के टोला बघम्बरपुर पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "28",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सहदेव राय के टोला बघम्बरपुर पश्चिम भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "29",
+                  "name": "प्राथमिक विद्यालय सिरिसिया कोलनी",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "30",
+                  "name": "उत्क्रमित मध्य विद्यालय सिरिसिया मठिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "31",
+                  "name": "उत्क्रमित मध्य विद्यालय मलाही पक्का भवन पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "32",
+                  "name": "उत्क्रमित मध्य विद्यालय मलाही पक्का भवन पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "33",
+                  "name": "प्रोजेक्ट उच्चतर माध्यमिक विद्यालय, पखनाहां बजार",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_141",
+                  "number": "34",
+                  "name": "प्रोजेक्ट उच्चतर माध्यमिक विद्यालय, पखनाहां बजार नया भवन",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_151",
+                  "number": "35",
+                  "name": "उत्क्रमित मध्य विद्यालय बलुआ रमपुरवा पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_161",
+                  "number": "36",
+                  "name": "उत्क्रमित मध्य विद्यालय बलुआ रमपुरवा पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_171",
+                  "number": "37",
+                  "name": "उत्क्रमित मध्य विद्यालय बलुआ रमपुरवा दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_181",
+                  "number": "38",
+                  "name": "प्राथमिक विद्यालय बलुआ रमपुरवा",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_191",
+                  "number": "39",
+                  "name": "ट्राइसम भवन बलुआ रमपुरवा ",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat185",
+              "name": "सिसवा सरैया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "40",
+                  "name": "मध्य विद्यालय ओझवलिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "41",
+                  "name": "पंचायत भवन सरैया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "42",
+                  "name": "प्राथमिक विद्यालय सिसवा सरैया दक्षिणी भाग ",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "43",
+                  "name": "प्राथमिक विद्यालय सिसवा सरैया मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "44",
+                  "name": "उत्क्रमित मध्य विद्यालय मझरिया कॉलोनी पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "45",
+                  "name": "उत्क्रमित मध्य विद्यालय मझरिया कॉलोनी पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "46",
+                  "name": "उत्क्रमित मध्य विद्यालय भटवलिया मथौली में स्थित का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "47",
+                  "name": "उत्क्रमित मध्य विद्यालय भटवलिया मथौली में स्थित का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "48",
+                  "name": "प्राथमिक विद्यालय मथौली का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "49",
+                  "name": "प्राथमिक विद्यालय मथौली का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat186",
+              "name": "तुमकडिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "50",
+                  "name": "उत्क्रमित मध्य विद्यालय तुमकड़िया पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "51",
+                  "name": "राजकीय प्राथमिक विद्यायल मखुआ परती",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "52",
+                  "name": "उत्क्रमित मध्य विद्यालय तुमकडिया पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "53",
+                  "name": "उत्क्रमित मध्य विद्यालय तुमकड़िया उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat187",
+              "name": "भितहां",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "54",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय हाट सरैया का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "55",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय हाट सरैया का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "56",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय हाट सरैया नया भवन का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "57",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय हाट सरैया नया भवन का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "58",
+                  "name": "प्राथमिक विद्यालय खुशी टोला उतरी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "59",
+                  "name": "प्राथमिक विद्यालय खुशी टोला उतरी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "60",
+                  "name": "प्राथमिक विद्यालय खुशी टोला दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "61",
+                  "name": "प्राथमिक विद्यालय खुशी टोला दक्षिणी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "62",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मलकौली पटखौली मठिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "63",
+                  "name": "प्रोन्नत मध्य विद्यालय भितहॉ निजामत पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "64",
+                  "name": "प्रोन्नत मध्य विद्यालय भितहॉ निजामत पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "65",
+                  "name": "पंचायत भवन भितहॉ पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "66",
+                  "name": "पंचायत भवन भितहॉ पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat188",
+              "name": "बगहीं रतनपुर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "67",
+                  "name": "राजकीय प्राथमिक विद्यालय गदियानी उर्दु, तमोलिया टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "68",
+                  "name": "राजकीय प्राथमिक विद्यालय बगही मुखिया जी के टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "69",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही बैरिया कानू टोला उत्तरी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "70",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही बैरिया कानू टोला उत्तरी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "71",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही बैरिया कानू टोला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "72",
+                  "name": "उत्क्रमित मध्य विद्यालय बगही रतनपुर पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "73",
+                  "name": "उत्क्रमित मध्य विद्यालय बगही रतनपुर पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "74",
+                  "name": "राजकीय प्राथमिक विद्यालय बगही मलाही लमोईया टोला दाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "75",
+                  "name": "राजकीय प्राथमिक विद्यालय बगही मलाही लमोईया टोला बाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "76",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही ज्ञानी जी का टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "77",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बगही ज्ञानी जी का टोला नया भवन",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat189",
+              "name": "मियॉपुर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "78",
+                  "name": "राजकीयकृत उत्क्रमित मध्य विद्यालय, मियॉपुर दुबौली उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "79",
+                  "name": "राजकीयकृत उत्क्रमित मध्य विद्यालय, मियॉपुर दुबौली मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "80",
+                  "name": "राजकीयकृत उत्क्रमित मध्य विद्यालय, मियॉपुर दुबौली दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "81",
+                  "name": "राजकीय प्राथमिक विद्यालय बेलबनवा अनुसूचित जाति टोला उत्तरी भाग ",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "82",
+                  "name": "राजकीय प्राथमिक विद्यालय बेलबनवा अनुसूचित जाति के टोला दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "83",
+                  "name": "राजकीय प्राथमिक विद्यालय बेलबनवा अनुसूचित जाति के टोला दक्षिणी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat190",
+              "name": "बैरिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "84",
+                  "name": "प्राथमिक विद्यालय चुडीहरवा टोला उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "85",
+                  "name": "प्राथमिक विद्यालय चुडीहरवा टोला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "86",
+                  "name": "राजकीय मध्य विद्यालय, बैरिया बाजार पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "87",
+                  "name": "राजकीय मध्य विद्यालय, बैरिया बाजार मध्य भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "88",
+                  "name": "राजकीय मध्य विद्यालय, बैरिया बाजार मध्य भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "89",
+                  "name": "राजकीय मध्य विद्यालय, बैरिया बाजार पश्चिमी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "90",
+                  "name": "राजकीय मध्य विद्यालय, बैरिया बाजार पश्चिमी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "91",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बरगछिया उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "92",
+                  "name": "राजकीय उत्क्रमित विद्यालय बरगछिया दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat191",
+              "name": "तधवानन्दपुर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "93",
+                  "name": "प्राथमिक विद्यालय तधवानंदपुर गया राउत के टोला पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "94",
+                  "name": "प्राथमिक विद्यालय तधवानंदपुर गया राउत के टोला पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "95",
+                  "name": "उत्क्रमित मध्य विद्यालय तधवानन्दपुर कान्ही टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "96",
+                  "name": "पंचायत भवन तधवानन्दपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "97",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय तधवानंदपुर अनु० जाति",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "98",
+                  "name": "प्राथमिक विद्यालय खलवा टोला तधवानन्दपुर उतरी भाग ",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "99",
+                  "name": "प्राथमिक विद्यालय खलवा टोला तधवानन्दपुर दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "100",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय तधवानन्दपुर लखनी बाजार पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "101",
+                  "name": "उत्क्रमित मध्य विद्यालय तधवानन्दपुर लखनी बाजार पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat192",
+              "name": "पखनाहा डुमरिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "102",
+                  "name": "उत्क्रमित मध्य विद्यालय मोतीपुर पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "103",
+                  "name": "उत्क्रमित मध्य विद्यालय मोतीपुर पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "104",
+                  "name": "मध्य विद्यालय पखनाहा डुमरिया उत्तरी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "105",
+                  "name": "मध्य विद्यालय पखनाहा डुमरिया उत्तरी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "106",
+                  "name": "मध्य विद्यालय पखनाहा डुमरिया दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "107",
+                  "name": "मध्य विद्यालय पखनाहा डुमरिया पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "108",
+                  "name": "राजकीय प्राथमिक विद्यालय कन्या डुमरिया उर्दू उत्तरी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "109",
+                  "name": "राजकीय प्राथमिक विद्यालय कन्या डुमरिया उर्दू उत्तरी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "110",
+                  "name": "राजकीय प्राथमिक विद्यालय कन्या डुमरिया उर्दू दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "111",
+                  "name": "राजकीय प्राथमिक विद्यालय कन्या डुमरिया उर्दू दक्षिणी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "112",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय इमली टोला पोखरिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_111",
+                  "number": "113",
+                  "name": "राजकीय प्राथमिक विद्यालय पखनाहां उर्दू कन्या",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_121",
+                  "number": "114",
+                  "name": "प्राथमिक विद्यालय सिंगही सूर्यपूर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_131",
+                  "number": "115",
+                  "name": "उत्क्रमित मध्य विद्यालय कोईरीपट्टी",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat193",
+              "name": "बैजुआ",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "116",
+                  "name": "राजकीय प्राथमिक विद्यालय राजघाट, पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "117",
+                  "name": "राजकीय प्राथमिक विद्यालय राजघाट, पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "118",
+                  "name": "प्राथमिक विद्यालय अल्पाहॉ धुरी राउत का टोला पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "119",
+                  "name": "प्राथमिक विद्यालय अल्पाहॉ धुरी राउत का टोला पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "120",
+                  "name": "प्रोन्नत मध्य विद्यालय, बैजुआ पटेरवा उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "121",
+                  "name": "प्रोन्नत मध्य विद्यालय, बैजुआ पटेरवा दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "122",
+                  "name": "राजकीय प्राथमिक विद्यालय संतु चौधरी के टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "123",
+                  "name": "राजकीय प्राथमिक विद्यालय गेडही दामोदरपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "124",
+                  "name": "प्राथमिक विद्यालय नारायणपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat194",
+              "name": "लौकरिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "125",
+                  "name": "प्राथमिक विद्यालय लौकरिया यदू राव के टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "126",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, लौकरिया, रामेश्वर लाल के टोला पूर्वी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "127",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय, रामेश्वर लाल के टोला पूर्वी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "128",
+                  "name": "राजकीय मध्य विद्यालय लौकरिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "129",
+                  "name": "प्राथमिक विद्यालय बलुआ टोला लौकरिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "130",
+                  "name": "प्राथमिक विद्यालय मौजे टोला लौकरिया पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "131",
+                  "name": "प्राथमिक विद्यालय मौजे टोला लौकरिया पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat195",
+              "name": "बथना",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "132",
+                  "name": "सहकारिता पैक्स भवन फुलझरिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "133",
+                  "name": "राजकीयकृत +2 उच्च विद्यालय, बथना फातुछापर पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "134",
+                  "name": "राजकीयकृत +2 उच्च विद्यालय, बथना फातुछापर पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "135",
+                  "name": "राजकीयकृत +2 उच्च विद्यालय, बथना फातुछापर मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "136",
+                  "name": "उत्क्रमित मध्य विद्यालय कन्या फातुछापर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "137",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय कन्या आशाराम पटखौली",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat196",
+              "name": "फुलिया खॉड",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "138",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय भेड़हारी कन्या मंशा दुबे",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "139",
+                  "name": "उत्क्रमित मध्य विद्यालय मच्छरगॉवा पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "140",
+                  "name": "उत्क्रमित मध्य विद्यालय मच्छरगॉवा पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "141",
+                  "name": "मध्य विद्यालय समधवा फुलियाखांड उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "142",
+                  "name": "मध्य विद्यालय समधवा फुलियाखांड मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "143",
+                  "name": "मध्य विद्यालय समधवा फुलियाखॉड दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "block15",
+          "name": "नौतन",
+          "assemblyNo": "006",
+          "assemblyName": "नौतन",
+          "panchayats": [
+            {
+              "id": "panchayat197",
+              "name": "पश्चिमी नौतन",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "144",
+                  "name": "राजकीय प्राथमिक विद्यालय भेडिहरवा पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "145",
+                  "name": "राजकीय प्राथमिक विद्यालय भेडिहरवा पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "146",
+                  "name": "पंचायत भवन लक्ष्मीपुर उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "147",
+                  "name": "पंचायत भवन लक्ष्मीपुर दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "148",
+                  "name": "राजकीय प्राथमिक विद्यालय संतपुर उर्दू बालक पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "149",
+                  "name": "राजकीय प्राथमिक विद्यालय संतपुर उर्दू बालक पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "150",
+                  "name": "राजकीयकृत कमल साह उच्च विद्यालय नौतन पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "151",
+                  "name": "राजकीयकृत कमल साह उच्च विद्यालय नौतन मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "152",
+                  "name": "राजकीयकृत कमल साह उच्च विद्यालय नौतन पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat198",
+              "name": "पूर्वी नौतन",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "153",
+                  "name": "राजकीय प्राथमिक विद्यालय खालवा खाप का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "154",
+                  "name": "राजकीय प्राथमिक विद्यालय खालवा खाप का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "155",
+                  "name": "राजकीय मध्य विद्यालय नौतन पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "156",
+                  "name": "राजकीय मध्य विद्यालय नौतन मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "157",
+                  "name": "राजकीय मध्य विद्यालय नौतन पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "158",
+                  "name": "उत्क्रमित मध्य विद्यालय शेखटोली उर्दू पूर्वी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "159",
+                  "name": "उत्क्रमित मध्य विद्यालय शेखटोली उर्दू पूर्वी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "160",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शेख टोली उर्दू पश्चिमी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "161",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शेख टोली  उर्दू पश्चिमी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "162",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खैराटोला उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "163",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खैराटोला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat199",
+              "name": "खड्डा",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "164",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खड्डा पतहरी पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "165",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खड्डा पतहरी पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "166",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय खड्डा पतहरी मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "167",
+                  "name": "राजकीय मध्य विद्यालय कुंजलही पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "168",
+                  "name": "राजकीय मध्य विद्यालय कुंजलही पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "169",
+                  "name": "प्राथमिक विद्यालय भंगहा टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "170",
+                  "name": "राजकीय प्राथमिक विद्यालय पुरंदरपुर हिन्दी पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "171",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय श्रीनगर धनुष टोली",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "172",
+                  "name": "राजकीय प्राथमिक विद्यालय पुरंदरपुर हिन्दी पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat200",
+              "name": "नगर निगम बेतिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "173",
+                  "name": "राजकीय मध्य विद्यालय सनसरैया हिन्दी पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "174",
+                  "name": "राजकीय मध्य विद्यालय सनसरैया हिन्दी पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "175",
+                  "name": "राजकीय मध्य विद्यालय सनसरैया हिन्दी मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "176",
+                  "name": "राजकीय प्राथमिक विद्यालय सनसरैया उर्दू बालक उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "177",
+                  "name": "राजकीय प्राथमिक विद्यालय सनसरैया उर्दू बालक दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "178",
+                  "name": "ख्रिस्तराजा हाई स्कूल परवतिया टोला पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "179",
+                  "name": "ख्रिस्तराजा हाई स्कूल, परवतिया टोला पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "180",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय चरगाहॉ उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "181",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय चरगाहॉ दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat201",
+              "name": "धुमनगर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "182",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय धुमनगर पूर्वी टोला उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "183",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय धुमनगर पूर्वी टोला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "184",
+                  "name": "पंचायत भवन धुमनगर कचहरी टोला",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "185",
+                  "name": "राजकीय मध्य विद्यालय धुमनगर उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "186",
+                  "name": "राजकीय मध्य विद्यालय धुमनगर दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "187",
+                  "name": "राजकीय मध्य विद्यालय धुमनगर दक्षिणी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "188",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बड़ोरिया धुमनगर उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "189",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बड़ोरिया धुमनगर दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "190",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय धुमनगर सोफवा टोला उतर भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "191",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय धुमनगर सोफवा टोला दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_101",
+                  "number": "192",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय धुमनगर सोफवा टोला दक्षिणी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat202",
+              "name": "बैकुण्ठवा",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "193",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बैकुण्ठवा जयनगर उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "194",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बैकुण्ठवा जयनगर दक्षिणी भाग ",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "195",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बैकुण्ठवा जयनगर मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "196",
+                  "name": "राजकीय मध्य विद्यालय विशुनपुरा कठैया पूर्वी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "197",
+                  "name": "राजकीय मध्य विद्यालय विशुनपुरा कठैया पूर्वी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "198",
+                  "name": "प्रोजेक्ट कन्या उच्च विद्यालय कठैया विशुनपुरा पश्चिमी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "199",
+                  "name": "प्रोजेक्ट कन्या उच्च विद्यालय कठैया विशुनपुरा पश्चिमी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "200",
+                  "name": "राजकीय प्राथमिक विद्यालय पटेरवा पूर्वी भाग ",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "201",
+                  "name": "राजकीय प्राथमिक विद्यालय पटेरवा पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat203",
+              "name": "बरदाहॉ",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "202",
+                  "name": "राजकीय प्राथमिक विद्यालय मडुआहां पूर्वी का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "203",
+                  "name": "राजकीय प्राथमिक विद्यालय मडुआहां पूर्वी का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "204",
+                  "name": "राजकीय मध्य विद्यालय मडुआहा दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "205",
+                  "name": "राजकीय मध्य विद्यालय मडुआहां उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "206",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मनियारी बरदाहा दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "207",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मनियारी बरदाहा उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "208",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मनियारी बरदाहा मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "209",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बरदाहॉ सोता टोली उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "210",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बरदाहॉ सोता टोली दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat204",
+              "name": "पकडिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "211",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रेखा सुंदरपट्टी पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "212",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रेखा सुंदरपट्टी पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "213",
+                  "name": "पंचायत भवन बैकुण्ठवा जयनगर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "214",
+                  "name": "राजकीय प्राथमिक विद्यालय लिलापट्टी चुरामनपट्टी",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "215",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय पकडिया पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "216",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय पकडिया पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "217",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय सियरही",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "218",
+                  "name": "पंचायत भवन पकडिया",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat205",
+              "name": " जमुनिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "219",
+                  "name": "राजकीय प्राथमिक विद्यालय जमुनिया उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "220",
+                  "name": "राजकीय प्राथमिक विद्यालय जमुनिया दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "221",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय जमुनिया नवका टोला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "222",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय जमुनिया नवका टोला पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "223",
+                  "name": "राजकीय प्राथमिक विद्यालय बहुअरवा का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "224",
+                  "name": "राजकीय प्राथमिक विद्यालय बहुअरवा का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "225",
+                  "name": "राजकीय प्राथमिक विद्यालय मझरिया किशुन पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "226",
+                  "name": "राजकीय प्राथमिक विद्यालय मझरिया किशुन पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "227",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय जगदीशपुर हलखोरवा",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat206",
+              "name": "जगदीशपुर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "228",
+                  "name": "राजकीय मध्य विद्यालय अहवर शेख जगदीशपुर, उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "229",
+                  "name": "राजकीय मध्य विद्यालय अहवर शेख जगदीशपुर दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "230",
+                  "name": "राजकीय प्राथमिक विद्यालय पूर्णा डीह का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "231",
+                  "name": "राजकीय प्राथमिक विद्यालय पूर्णा डीह का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "232",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय दिउलिया पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "233",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय दिउलिया पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "234",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शेखौना उर्दू उतरी बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "235",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शेखौना उर्दू उतरी दाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_81",
+                  "number": "236",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शेखौना उर्दू दक्षिणी बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_91",
+                  "number": "237",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शेखौना उर्दू दक्षिणी दाया भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat207",
+              "name": "गहिरी",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "238",
+                  "name": "राजकीय मध्य विद्यालय गहिरी पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "239",
+                  "name": "राजकीय मध्य विद्यालय गहिरी पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "240",
+                  "name": "पंचायत भवन गहिरी उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "241",
+                  "name": "पंचायत भवन गहिरी दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "242",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय गहिरी मुसहर टोली",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "243",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बलुआ गहिरी",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat208",
+              "name": "झखरा",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "244",
+                  "name": "राजकीय प्राथमिक विद्यालय झखरा हरिजन",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "245",
+                  "name": "राजकीय मध्य विद्यालय झखरा पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "246",
+                  "name": "राजकीय मध्य विद्यालय झखरा मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "247",
+                  "name": "राजकीय मध्य विद्यालय झखरा पूर्वी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "248",
+                  "name": "राजकीय मध्य विद्यालय झखरा पूर्वी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "249",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बसवरिया झखरा",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat209",
+              "name": "उत्तरी तेल्हुआ",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "250",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय झगरू राउत के टोला उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "251",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय झगरू राउत के टोला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat210",
+              "name": "दक्षिण तेल्हुआ",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "252",
+                  "name": "बेसिक स्कूल तेल्हुआ पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "253",
+                  "name": "बेसिक स्कुल तेल्हुआ पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "254",
+                  "name": "जनता उच्च विद्यालय तेल्हुआ दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "255",
+                  "name": "जनता उच्च विद्यालय तेल्हुआ उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "256",
+                  "name": "राजकीय प्राथमिक विद्यालय बुधवलिया हिन्दी तेल्हुआ उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "257",
+                  "name": "राजकीय प्राथमिक विद्यालय बुधवलिया हिन्दी तेल्हुआ दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "258",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय तेल्हुआ खाप पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_71",
+                  "number": "259",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय तेल्हुआ खाप पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat211",
+              "name": "डबरिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "260",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय परसौनी पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "261",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय परसौनी पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "262",
+                  "name": "राजकीय प्राथमिक विद्यालय बैकुण्ठवा  डबरिया उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "263",
+                  "name": "राजकीय प्राथमिक विद्यालय बैकुण्ठवा डबरिया दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "264",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय डबरिया पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "265",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय डबरिया पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat212",
+              "name": "मंगलपुर गुदरिया",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "266",
+                  "name": "राजकीय मध्य विद्यालय मंगलपुर पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "267",
+                  "name": "राजकीय मध्य विद्यालय मंगलपुर पश्चिमी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "268",
+                  "name": "राजकीय मध्य विद्यालय मंगलपुर पश्चिमी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "269",
+                  "name": "तहसील कचहरी मंगलपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "270",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बनकटवा उतरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "271",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बनकटवा दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "272",
+                  "name": "राजकीय प्राथमिक विद्यालय श्यामपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat213",
+              "name": "शिवराजपुर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "273",
+                  "name": "राजकीय प्राथमिक विद्यालय शिवराजपुर हरिजन",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "274",
+                  "name": "सहायता प्राप्त मध्य विद्यालय शिवराजपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "275",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शिवराजपुर उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "276",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शिवराजपुर दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "277",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय शिवराजपुर मध्य भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "278",
+                  "name": "बाजार समिति हाट शेड शिवराजपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_61",
+                  "number": "279",
+                  "name": "ऑगनबाडी केन्द्र संख्या 164 शिवराजपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat214",
+              "name": "भगवानपुर",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "280",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय फुलियाखांड",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "281",
+                  "name": "दरोगा प्रसाद मध्य विद्यालय भगवानपुर",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat215",
+              "name": "मंगलपुरकला",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "282",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मंगलपुर कला उत्तरी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "283",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय मंगलपुर कला दक्षिणी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "284",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बैरिया बीनटोली पश्चिमी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "285",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय बैरिया बीनटोली पूर्वी भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                }
+              ]
+            },
+            {
+              "id": "panchayat216",
+              "name": "श्यामपुर कोतराहॉ",
+              "assemblyNo": "006",
+              "assemblyName": "नौतन",
+              "pollingStations": [
+                {
+                  "id": "ps_01",
+                  "number": "286",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रामनगर बैरिया दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_11",
+                  "number": "287",
+                  "name": "राजकीय उत्क्रमित मध्य विद्यालय रामनगर बैरिया बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_21",
+                  "number": "288",
+                  "name": "राजकीय प्राथमिक विद्यालय श्यामपुर कोतराहा दक्षिणी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_31",
+                  "number": "289",
+                  "name": "राजकीय प्राथमिक विद्यालय श्यामपुर कोतराहा दक्षिणी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_41",
+                  "number": "290",
+                  "name": "राजकीय प्राथमिक विद्यालय श्यामपुर कोतराहा उतरी भाग का दायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
+                },
+                {
+                  "id": "ps_51",
+                  "number": "291",
+                  "name": "राजकीय प्राथमिक विद्यालय श्यामपुर कोतराहा उतरी भाग का बायां भाग",
+                  "assemblyNo": "006",
+                  "assemblyName": "नौतन"
                 }
               ]
             }
