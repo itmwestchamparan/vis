@@ -11,6 +11,9 @@ const uploadStatus = document.getElementById('uploadStatus');
 const pollingStationTable = document.getElementById('pollingStationTable');
 const tableBody = pollingStationTable.querySelector('tbody');
 const noDataMessage = document.getElementById('noDataMessage');
+const assemblyInfo = document.getElementById('assemblyInfo');
+const assemblyName = document.getElementById('assemblyName');
+const assemblyNo = document.getElementById('assemblyNo');
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', () => {
@@ -153,6 +156,15 @@ function displayPollingStations() {
                 );
                 
                 if (selectedPanchayat && selectedPanchayat.pollingStations.length > 0) {
+                    // Display Assembly information if available
+                    if (selectedPanchayat.assemblyName && selectedPanchayat.assemblyNo) {
+                        assemblyName.textContent = `Assembly: ${selectedPanchayat.assemblyName}`;
+                        assemblyNo.textContent = `${selectedPanchayat.assemblyNo}`;
+                        assemblyInfo.classList.remove('d-none');
+                    } else {
+                        assemblyInfo.classList.add('d-none');
+                    }
+                    
                     // Show the polling stations in the table
                     selectedPanchayat.pollingStations.forEach(station => {
                         const row = document.createElement('tr');
@@ -171,6 +183,7 @@ function displayPollingStations() {
                     // Show no data message
                     noDataMessage.textContent = 'No polling stations found for the selected panchayat.';
                     noDataMessage.classList.remove('d-none');
+                    assemblyInfo.classList.add('d-none');
                 }
             }
         }
@@ -181,6 +194,7 @@ function displayPollingStations() {
 function clearTable() {
     tableBody.innerHTML = '';
     noDataMessage.classList.add('d-none');
+    assemblyInfo.classList.add('d-none');
 }
 
 // Handle Excel file upload
@@ -252,7 +266,7 @@ function processExcelData(workbook) {
         
         // Check if the required columns exist
         const firstRow = jsonData[0];
-        const requiredColumns = ['Subdivision ID', 'Subdivision Name', 'Block ID', 'Block Name', 'Panchayat ID', 'Panchayat Name', 'Station No', 'Station Name'];
+        const requiredColumns = ['Assembly No', 'Assembly Name', 'Subdivision ID', 'Subdivision Name', 'Block ID', 'Block Name', 'Panchayat ID', 'Panchayat Name', 'Station No', 'Station Name'];
         
         for (const column of requiredColumns) {
             if (!(column in firstRow)) {
@@ -270,6 +284,8 @@ function processExcelData(workbook) {
                 subdivision = {
                     id: row['Subdivision ID'],
                     name: row['Subdivision Name'],
+                    assemblyNo: row['Assembly No'].toString(),
+                    assemblyName: row['Assembly Name'],
                     blocks: []
                 };
                 newVoterData.subdivisions.push(subdivision);
@@ -282,6 +298,8 @@ function processExcelData(workbook) {
                 block = {
                     id: row['Block ID'],
                     name: row['Block Name'],
+                    assemblyNo: row['Assembly No'].toString(),
+                    assemblyName: row['Assembly Name'],
                     panchayats: []
                 };
                 subdivision.blocks.push(block);
@@ -294,6 +312,8 @@ function processExcelData(workbook) {
                 panchayat = {
                     id: row['Panchayat ID'],
                     name: row['Panchayat Name'],
+                    assemblyNo: row['Assembly No'].toString(),
+                    assemblyName: row['Assembly Name'],
                     pollingStations: []
                 };
                 block.panchayats.push(panchayat);
@@ -303,7 +323,9 @@ function processExcelData(workbook) {
             const pollingStation = {
                 id: 'ps_' + panchayat.pollingStations.length + 1,
                 number: row['Station No'].toString(),
-                name: row['Station Name']
+                name: row['Station Name'],
+                assemblyNo: row['Assembly No'].toString(),
+                assemblyName: row['Assembly Name']
             };
             
             panchayat.pollingStations.push(pollingStation);
